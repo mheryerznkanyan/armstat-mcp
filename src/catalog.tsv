@@ -1,0 +1,638 @@
+/1 Econnomy and finance/12 Consumer Prices/1.2.1 Monthly indicators/EF-cpi-mi1.px	2026-07-08	Consumer price index in the Republic of Armenia, compared to the previous month (1993-2026) by months and years
+/1 Econnomy and finance/12 Consumer Prices/1.2.1 Monthly indicators/EF-cpi-mi2.px	2026-07-08	Percentage changes of consumer prices, food products (including alcoholic beverages and tobacco), non-food products, service prices and tariffs compared to the previous month (1993-2026) by years, months and indicators
+/1 Econnomy and finance/12 Consumer Prices/1.2.1 Monthly indicators/EF-cpi-mi3.px	2026-07-08	Consumer Price Index in the Republic of Armenia (each month compared to the corresponding month of the previous year, the period calculated from the beginning of the year compared to the corresponding period of the previous year (cumulative)), 1994-2026 by months, years and period
+/1 Econnomy and finance/12 Consumer Prices/1.2.1 Monthly indicators/EF-cpi-mi4.px	2026-07-08	PRICE INDEXES by years and months, grow rate to the previous month (2digit level by COICOP) by year, 2digit level by COICOP and month (percentage change over 1 month)
+/1 Econnomy and finance/12 Consumer Prices/1.2.1 Monthly indicators/EF-cpi-mi5.px	2026-07-08	CONSUMER PRICE INDEX REPUBLIC OF ARMENIA by months, years and period (cumulative to the same period of previous year) 2digit level by COICOP and month
+/1 Econnomy and finance/12 Consumer Prices/1.2.1 Monthly indicators/EF-cpi-mi6.px	2026-07-08	CONSUMER PRICE INDEX REPUBLIC OF ARMENIA by months, years and period (each month current year to similar month previous year, by 2digit level by COICOP) by years, 2digit level by COICOP and months
+/1 Econnomy and finance/12 Consumer Prices/1.2.1 Monthly indicators/EF-cpi-mi7.px	2026-07-08	CONSUMER PRICE INDEX REPUBLIC OF ARMENIA (compared to December last year) by years 2digit level by COICOP
+/1 Econnomy and finance/12 Consumer Prices/1.2.2 Annual indicators/EF-cpi-ai1.px	2026-02-06	Consumer price index Republic of Armenia 1950-2025 by years and indicators
+/1 Econnomy and finance/12 Consumer Prices/1.2.2 Annual indicators/EF-cpi-ai2.px	2026-02-06	The consumer price index in the Republic of Armenia compared to the previous year 2018-2025 by COICOP 4-digit classification
+/1 Econnomy and finance/12 Consumer Prices/1.2.2 Annual indicators/EF-cpi-ai3.px	2026-02-06	The consumer price index in the Republic of Armenia, December compared to December of the previous year, according to the 4-digit classification of COICOP (2017-2025) by name of group and years
+/1 Econnomy and finance/12 Consumer Prices/1.2.2 Annual indicators/EF-cpi-ai4.px	2026-02-06	Consumer price index Republic of Armenia, compared to previous year (1994-2016) by name of group and years
+/1 Econnomy and finance/12 Consumer Prices/1.2.2 Annual indicators/EF-cpi-ai5.px	2023-02-09	Consumer price index in the Republic of Armenia, December compared to December of the previous year(1994-2016), by product group name and by years
+/1 Econnomy and finance/12 Consumer Prices/1.2.2 Annual indicators/EF-cpi-ai6.px	2026-02-06	THE INDEXES OF CONSUMER GOODS PRICES AND TARIFFS OF SERVICES IN THE REPUBLIC OF ARMENIA (calculated period from the beginning of the year compared to the appropriate period of the previous year (cumulative)) (1996-2025) by name of group and year
+/1 Econnomy and finance/12 Consumer Prices/1.2.2 Annual indicators/EF-cpi-ai7.px	2026-02-06	THE INDEXES OF CONSUMER GOODS PRICES AND TARIFFS OF SERVICES IN THE REPUBLIC OF ARMENIA (compared to December previouse year), (1996-2025) by name of group and year
+/1 Econnomy and finance/12 Consumer Prices/1.2.3 CPI Weights/EF-cpi-weights.px	2026-02-06	Composition and structure and share of goods (service) groups for the calculation of consumer price index in the Republic of Armenia by COICOP 2-5 digit classification in 2017-2025 by COICOP and by year
+/1 Econnomy and finance/12 Consumer Prices/1.2.4 Average annual prices/EF-CPI-av.px	2026-02-06	Average national retail prices (tariffs) for some goods (services) registered for the calculation of the RA consumer price index 1999-2025
+/1 Econnomy and finance/13 Enterprices Finances/EF-EF-1.px	2025-11-04	Payables and receivables of large and medium-sized organizations by marzes, indicators and years
+/1 Econnomy and finance/13 Enterprices Finances/EF-EF-2.px	2026-07-15	Main Indicators of the Financial Organizations Sector by indicators and years
+/1 Econnomy and finance/13 Enterprices Finances/EF-gf-3.px	2026-07-15	Main Indicators of Government Finance by indicators and years
+/1 Econnomy and finance/14 Government Finances/EF-gf-3.px	2026-07-15	Main Indicators of Government Finance by indicators and years
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1521 Annual data/15211 Production of GDP/EF-NA-93AP01.px	2022-07-26	GDP production by NACE 2 classification by types of economic activity by SNA 1993 and years
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1521 Annual data/15211 Production of GDP/EF-NA-93AP02.px	2022-07-26	GDP production structure, NACE 2 classification by types of economic activity by SNA 1993 and years
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1521 Annual data/15211 Production of GDP/EF-NA-93AP03.px	2022-07-26	Changes in GDP production by NACE 2 classification by types of economic activity by SNA 1993 and years
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1521 Annual data/15211 Production of GDP/EF-NA-93AP04.px	2022-04-05	GDP production by NACE 1.1. classification by types of economic activity by SNA 1993 and years
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1521 Annual data/15211 Production of GDP/EF-NA-93AP05.px	2022-04-05	GDP production structure by NACE 1.1. classification by types of economic activity by SNA 1993 and years
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1521 Annual data/15211 Production of GDP/EF-NA-93AP06.px	2022-04-05	Changes in GDP production by NACE 1.1. classification by types of economic activity by SNA 1993 and years
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1521 Annual data/15212 Expenditure of GDP (by main consumption elements)/EF-NA-93AE01.px	2022-07-26	Expenditure of the GDP by main consumption elements by SNA 1993 and years
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1521 Annual data/15212 Expenditure of GDP (by main consumption elements)/EF-NA-93AE02.px	2022-07-26	Structure of Expenditure of the GDP by main consumption elements by SNA 1993 and years
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1521 Annual data/15212 Expenditure of GDP (by main consumption elements)/EF-NA-93AE03.px	2022-07-26	Changes in Expenditure of the GDP by main consumption elements by SNA 1993 and years
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1521 Annual data/15213 GDP by Income generation/EF-NA-93AG01.px	2022-04-04	GDP by income generation by NACE 2 classification by types of economic activity by SNA 1993, years and income catigories
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1521 Annual data/15213 GDP by Income generation/EF-NA-93AG02.px	2022-04-04	GDP by income generation by NACE 1.1. classification by types of economic activity by SNA 1993, years and income catigories
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1521 Annual data/EF-NA-93A.px	2022-07-26	GDP by years and GDP per capita by SNA 1993
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15221 Production of GDP/EF-NA-93QP01.px	2022-04-05	GDP production by NACE 1.1. classification by types of economic activity by SNA 1993 and quarterly
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15221 Production of GDP/EF-NA-93QP02.px	2022-04-05	GDP production structure by NACE 1.1. classification by types of economic activity by SNA 1993 and quarterly
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15221 Production of GDP/EF-NA-93QP03.px	2022-04-05	GDP production at prices of the same period of the previous year by NACE 1.1. classification by types of economic activity by SNA 1993 and quarterly
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15221 Production of GDP/EF-NA-93QP04.px	2022-04-05	Changes in GDP productionreal to corresponding quarter of the previous year by NACE 1.1. classification by types of economic activity by SNA 1993 and quarterly
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15221 Production of GDP/EF-NA-93QP05.px	2022-04-05	Changes in GDP production real volume chain-link indices, 2009=100 by NACE 1.1. classification by types of economic activity by SNA 1993 and quarterly
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15221 Production of GDP/EF-NA-93QP06.px	2022-07-26	GDP production by NACE 2 classification by types of economic activity by SNA 1993 and quarterly
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15221 Production of GDP/EF-NA-93QP07.px	2022-07-26	GDP production structure by NACE 2 classification by types of economic activity by SNA 1993 and quarterly
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15221 Production of GDP/EF-NA-93QP08.px	2022-07-26	GDP production at prices of the same period of the previous year by NACE 2 classification by types of economic activity by SNA 1993 and quarterly
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15221 Production of GDP/EF-NA-93QP09.px	2022-07-26	Changes in GDP production to corresponding quarter of the previous year, by NACE 2 classification by types of economic activity by SNA 1993 and quarterly
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15221 Production of GDP/EF-NA-93QP10.px	2022-07-26	Changes in GDP production real volume chain-link indices 2010=100 by NACE 2 classification by types of economic activity by SNA 1993 and quarterly
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15221 Production of GDP/EF-NA-93QP11.px	2022-07-26	Changes in GDP production real volume chain-link indices 2011=100 by NACE 2 classification by types of economic activity by SNA 1993 and quarterly
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15221 Production of GDP/EF-NA-93QP12.px	2022-07-26	Changes in GDP production real volume chain-link indices 2012=100 by NACE 2 classification by types of economic activity by SNA 1993 and quarterly
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15222 Expenditure of GDP (by main consumption elements)/EF-NA-93QE01.px	2022-07-26	Expenditure of the GDP by main consumption elements by SNA 1993 and quarterly
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15222 Expenditure of GDP (by main consumption elements)/EF-NA-93QE02.px	2022-07-26	Structure of expenditure of the GDP by main consumption elements by SNA 1993 and quarterly
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15222 Expenditure of GDP (by main consumption elements)/EF-NA-93QE03.px	2022-07-26	Expenditure of the GDP at prices of the same period of the previous year by main consumption elements by SNA 1993 and quarterly
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15222 Expenditure of GDP (by main consumption elements)/EF-NA-93QE04.px	2022-07-26	Changes in expenditure of the GDP by main consumption elements by SNA 1993 and quarterly
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15222 Expenditure of GDP (by main consumption elements)/EF-NA-93QE05.px	2022-07-26	Expenditure of the GDP real volume chain-link indices, 2009=100 by main consumption elements by SNA 1993 and quarterly
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15222 Expenditure of GDP (by main consumption elements)/EF-NA-93QE06.px	2022-07-26	Expenditure of the GDP real volume chain-link indices, 2010=100 by main consumption elements by SNA 1993 and quarterly
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15222 Expenditure of GDP (by main consumption elements)/EF-NA-93QE07.px	2022-07-26	Expenditure of the GDP real volume chain-link indices, 2011=100 by main consumption elements by SNA 1993 and quarterly
+/1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15222 Expenditure of GDP (by main consumption elements)/EF-NA-93QE08.px	2022-07-26	Expenditure of the GDP real volume chain-link indices, 2012=100 by main consumption elements by SNA 1993 and quarterly
+/1 Econnomy and finance/15 National Accounts/EF-NA-01.px	2026-07-29	Indicator of economic activity by years, months and indicators
+/1 Econnomy and finance/15 National Accounts/EF-NA-01 A.px	2024-03-01	Indicator of economic activity with seasonal adjustment (2019=100) by years, months and indicators
+/1 Econnomy and finance/15 National Accounts/EF-NA-01 B.px	2025-02-03	Indicator of economic activity with seasonal adjustment (2021=100) by years, months and indicators
+/1 Econnomy and finance/15 National Accounts/EF-NA-01 C.px	2026-02-03	Indicator of economic activity with seasonal adjustment (2022=100) by years, months and indicators
+/1 Econnomy and finance/15 National Accounts/EF-NA-01 D.px	2026-07-29	Indicator of economic activity with seasonal adjustment (2023=100) by years, months and indicators
+/1 Econnomy and finance/16 Producer Prices/161 IPPPI/EF-PP-IPPPI-1.px	2026-07-24	Industrial product producer price indexes compared to the previous month, by years
+/1 Econnomy and finance/16 Producer Prices/161 IPPPI/EF-PP-IPPPI-2.px	2026-07-24	Industrial product producer price indexes by divisions of the economic activity, compared to the previous month, from 2018
+/1 Econnomy and finance/16 Producer Prices/161 IPPPI/EF-PP-IPPPI-3.px	2026-01-29	Industrial product producer price indexes compared to the previous year
+/1 Econnomy and finance/16 Producer Prices/161 IPPPI/EF-PP-IPPPI-4.px	2026-01-29	Industrial product producer price indexes by divisions of the classification of economic activity, compared to the previous year, from 2018
+/1 Econnomy and finance/16 Producer Prices/161 IPPPI/EF-PP-IPPPI-5.px	2026-07-24	Industrial product producer price indexes compared to the 2017 year, by years and months
+/1 Econnomy and finance/16 Producer Prices/162 FTPI/1621 FTPI-EXP/EF-PP-FTPI-EXP-1.px	2026-07-23	Export average price indexes (unit value) in the foreign trade (excluding humanitarian aid), compared to the previous month, by years
+/1 Econnomy and finance/16 Producer Prices/162 FTPI/1621 FTPI-EXP/EF-PP-FTPI-EXP-2.px	2026-06-29	Export average price indexes (unit value) in the foreign trade (excluding humanitarian aid), compared to the previous year, by divisions
+/1 Econnomy and finance/16 Producer Prices/162 FTPI/1622 FTPI-IMP/EF-PP-FTPI-IMP-1.px	2026-07-23	Import average price indexes (unit value) in the foreign trade (excluding humanitarian aid), compared to the previous month, by years
+/1 Econnomy and finance/16 Producer Prices/162 FTPI/1622 FTPI-IMP/EF-PP-FTPI-IMP-2.px	2026-06-29	Import average price indexes (unit value) in the foreign trade (excluding humanitarian aid), compared to the previous year, by divisions
+/1 Econnomy and finance/16 Producer Prices/163 FTI/EF-PP-FTI-1.px	2026-07-27	Freight tariffs indexes compared to the previous month, by years
+/1 Econnomy and finance/16 Producer Prices/163 FTI/EF-PP-FTI-2.px	2026-01-26	Freight tariffs indexes compared to the previous year
+/1 Econnomy and finance/16 Producer Prices/164  API/1642 SALE/EF-PP-API-SALE-1.px	2026-07-22	Sale price indexes of agricultural product (crop and livestock) producers compared to the previous month, by years
+/1 Econnomy and finance/16 Producer Prices/164  API/1642 SALE/EF-PP-API-SALE-2.px	2026-01-26	Sale price indexes of agricultural product (crop and livestock) producers compared to the previous year
+/1 Econnomy and finance/16 Producer Prices/165 CPI/EF-PP-CPI-1.px	2026-07-27	Construction price indexes compared to the previous month, by years
+/1 Econnomy and finance/16 Producer Prices/165 CPI/EF-PP-CPI-2.px	2026-01-26	Construction price indexes compared to the previous year
+/2 Population and social processes/20 Census/PS-pp-1.3.px	2025-09-11	Distribution of RA (Current and Permanent population) by age and sex
+/2 Population and social processes/20 Census/PS-pp-1-1-2.px	2025-09-16	RA Permanent Population according by Marzes and by Sex
+/2 Population and social processes/20 Census/PS-pp-2.1.px	2025-09-11	Population by Age, Sex and Marital Status
+/2 Population and social processes/20 Census/PS-pp-3.1.px	2025-09-12	Population by Educational Attainment, Scientific Degree, Sex and Age
+/2 Population and social processes/20 Census/PS-pp-5.1.px	2025-09-12	Population by Ethnicity, Sex and Age
+/2 Population and social processes/20 Census/PS-pp-5.2.px	2025-09-12	Population by Ethnicity and Age
+/2 Population and social processes/20 Census/PS-pp-7.1.px	2025-09-12	Households by Structure and Number of Family nuclei
+/2 Population and social processes/20 Census/PS-pp-8.11.px	2025-09-11	Households by Type of Ownership of the Dwelling and Type of Housing Unit
+/2 Population and social processes/20 Census/PS-pp-8.4-1.px	2025-09-12	Households by Main Source of Water Supply and Type of Housing Unit
+/2 Population and social processes/20 Census/PS-pp-8.5-1.px	2025-09-12	Households by Toilet Facilities of Housing Unit and by Type of Housing Unit
+/2 Population and social processes/20 Census/PS-pp-8.6-1.px	2025-09-11	Households by Form of Garbage Disposal of the Dwelling and Type of Housing Unit
+/2 Population and social processes/20 Census/PS-pp-8.7-1.px	2025-09-11	Households by Sewage System of the Dwelling and Type of Housing Unit
+/2 Population and social processes/20 Census/PS-pp-8.8-1.px	2025-09-11	Households by Bathing Facilities of the Dwelling and Type of Housing Unit
+/2 Population and social processes/20 Census/PS-pp-8.9-1.px	2025-09-11	Households by Main Source of Heating of the Dwelling and Type of Housing Unit
+/2 Population and social processes/21 Culture/211 Activity of libraries/ps-cl-nl01.px	2025-09-08	Number of libraries by indicators, marzes and years
+/2 Population and social processes/21 Culture/211 Activity of libraries/ps-cl-nl02.px	2025-09-08	Library collection (fund) by indicators, marzes and years
+/2 Population and social processes/21 Culture/211 Activity of libraries/ps-cl-nl03.px	2025-09-08	Library collection (fund) by content and years
+/2 Population and social processes/21 Culture/211 Activity of libraries/ps-cl-nl04.px	2025-09-08	Served literature by indicators, marzes and years
+/2 Population and social processes/21 Culture/211 Activity of libraries/ps-cl-nl05.px	2025-09-08	Served literature by content and years
+/2 Population and social processes/21 Culture/211 Activity of libraries/ps-cl-nl06.px	2025-09-08	Number of readers by indicators, marzes and years
+/2 Population and social processes/21 Culture/211 Activity of libraries/ps-cl-nl07.px	2025-12-16	Number of readers from 2010 to 2022 by indicators, marzes and years
+/2 Population and social processes/21 Culture/211 Activity of libraries/ps-cl-nl08.px	2025-09-08	Number of attendances by indicators, marzes and years
+/2 Population and social processes/21 Culture/211 Activity of libraries/ps-cl-nl09.px	2025-09-08	Number of library employees by indicators, marzes and years
+/2 Population and social processes/21 Culture/211 Activity of libraries/ps-cl-nl10.px	2025-09-08	Number of library employees by indicators, marzes and years
+/2 Population and social processes/21 Culture/211 Activity of libraries/ps-cl-nl11.px	2025-09-08	Number of massive events by indicators, marzes and years
+/2 Population and social processes/21 Culture/211 Activity of libraries/ps-cl-nl12.px	2025-09-08	Number of places of reading rooms by marzes and years
+/2 Population and social processes/21 Culture/211 Activity of libraries/ps-cl-nl13.px	2025-09-08	Areas of library buildings and reading rooms by indicators, marzes and years
+/2 Population and social processes/21 Culture/211 Activity of libraries/ps-cl-nl14.px	2025-09-08	Involvement of population in libraries by marzes and years
+/2 Population and social processes/21 Culture/211 Activity of libraries/ps-cl-nl15.px	2025-09-08	Specialized scientific libraries by indicators and years
+/2 Population and social processes/21 Culture/211 Activity of libraries/ps-cl-nl16.px	2025-09-08	Specialized scientific libraries by indicators and years
+/2 Population and social processes/21 Culture/213 Theatrical activities/ps-cl-nto01.px	2025-07-29	Number of concert organizations by subordination and years
+/2 Population and social processes/21 Culture/213 Theatrical activities/ps-cl-nto02.px	2025-07-29	Number of theater organizations by marzes and years
+/2 Population and social processes/21 Culture/213 Theatrical activities/ps-cl-nto03.px	2025-07-29	Number of performances by indicators and years
+/2 Population and social processes/21 Culture/213 Theatrical activities/ps-cl-nto04.px	2025-07-29	Number of spectators by indicators and years
+/2 Population and social processes/21 Culture/213 Theatrical activities/ps-cl-nto05.px	2025-07-29	Received income by indicators and years
+/2 Population and social processes/21 Culture/213 Theatrical activities/ps-cl-nto06.px	2025-07-29	Number of performances by marzes and years
+/2 Population and social processes/21 Culture/213 Theatrical activities/ps-cl-nto07.px	2025-07-29	Number of spectators by marzes and years
+/2 Population and social processes/21 Culture/213 Theatrical activities/ps-cl-nto08.px	2025-07-29	Number of spectators per 1000 capita by marzes and years
+/2 Population and social processes/21 Culture/213 Theatrical activities/ps-cl-nto09.px	2025-07-29	The received income by marzes and years
+/2 Population and social processes/21 Culture/213 Theatrical activities/ps-cl-nto10.px	2025-07-29	Financial resources of theater organizations by indicators, marzes and years
+/2 Population and social processes/21 Culture/214 Concert activities/ps-cl-nco01.px	2025-07-29	Number of concert organizations by subordination and years
+/2 Population and social processes/21 Culture/214 Concert activities/ps-cl-nco02.px	2025-07-29	Number of concert organizations by marzes and years
+/2 Population and social processes/21 Culture/214 Concert activities/ps-cl-nco03.px	2025-07-29	Number of concerts by marzes and years
+/2 Population and social processes/21 Culture/214 Concert activities/ps-cl-nco04.px	2025-07-29	Number of concert-tours organized abroad by countries and years
+/2 Population and social processes/21 Culture/214 Concert activities/ps-cl-nco05.px	2025-07-29	Number of spectators by marzes and years
+/2 Population and social processes/21 Culture/214 Concert activities/ps-cl-nco06.px	2025-07-29	Number of spectators per 1000 capita by marzes and years
+/2 Population and social processes/21 Culture/214 Concert activities/ps-cl-nco07.px	2025-07-29	Received revenue from concerts by marzes and years
+/2 Population and social processes/21 Culture/214 Concert activities/ps-cl-nco08.px	2025-07-29	Number of concerts and spectators by indicators and years
+/2 Population and social processes/21 Culture/214 Concert activities/ps-cl-nco09.px	2025-07-29	Received revenue from concerts by indicators and years
+/2 Population and social processes/21 Culture/214 Concert activities/ps-cl-nco10.px	2025-07-29	Financial resources of concert organizations by indicators, marzes and years
+/2 Population and social processes/21 Culture/215 Film production/ps-cl-fp01.px	2025-07-29	Film production by indicators and years
+/2 Population and social processes/21 Culture/215 Film production/ps-cl-fp02.px	2025-07-29	Production costs by indicators and years
+/2 Population and social processes/21 Culture/215 Film production/ps-cl-fp03.px	2025-12-16	Number of films from 2016 to 2021 by indicators and years
+/2 Population and social processes/21 Culture/215 Film production/ps-cl-fp04.px	2025-07-29	Number of films by indicators and years
+/2 Population and social processes/21 Culture/215 Film production/ps-cl-fp05.px	2025-07-29	Financial resources of film production organizations by indicators and years
+/2 Population and social processes/21 Culture/216 Activity of sport organizations/ps-cl-nso01.px	2025-09-09	Number of sport organizations by marzes and years
+/2 Population and social processes/21 Culture/216 Activity of sport organizations/ps-cl-nso02.px	2025-09-09	Number of groups in sport organizations by indicators, marzes and years
+/2 Population and social processes/21 Culture/216 Activity of sport organizations/ps-cl-nso03.px	2025-09-09	Number of groups in sport organizations by olympic sport and years
+/2 Population and social processes/21 Culture/216 Activity of sport organizations/ps-cl-nso04.px	2025-09-09	Number of groups in sport organizations by non olympic sport and years
+/2 Population and social processes/21 Culture/216 Activity of sport organizations/ps-cl-nso05.px	2025-09-09	Number of coaches-pedagogues by indicators, marzes and years
+/2 Population and social processes/21 Culture/216 Activity of sport organizations/ps-cl-nso06.px	2025-09-09	Number of coaches-pedagogues per 10000 capita by marzes and years
+/2 Population and social processes/21 Culture/216 Activity of sport organizations/ps-cl-nso07.px	2025-09-09	Number of coaches-pedagogues by indicators, olympic sport and years
+/2 Population and social processes/21 Culture/216 Activity of sport organizations/ps-cl-nso08.px	2025-09-09	Number of coaches-pedagogues by indicators, non olympic sport and years
+/2 Population and social processes/21 Culture/216 Activity of sport organizations/ps-cl-nso09.px	2025-09-09	Number of athletes by indicators, marzes and years
+/2 Population and social processes/21 Culture/216 Activity of sport organizations/ps-cl-nso10.px	2025-09-09	Number of athletes per 10 000 capita by marzes and years
+/2 Population and social processes/21 Culture/216 Activity of sport organizations/ps-cl-nso11.px	2025-09-09	Number of athletes by olympic sport and years
+/2 Population and social processes/21 Culture/216 Activity of sport organizations/ps-cl-nso12.px	2025-09-09	Number of athletes by indicators, non olympic sport and years
+/2 Population and social processes/21 Culture/217 Publications/ps-cl-nrp01.px	2025-07-30	Number of release of periodicals by indicators and years
+/2 Population and social processes/21 Culture/217 Publications/ps-cl-nrp02.px	2025-07-30	Number of release of periodicals by indicators and years
+/2 Population and social processes/21 Culture/217 Publications/ps-cl-nrp03.px	2025-07-30	Publication of newspapers by indicators, languages and years
+/2 Population and social processes/21 Culture/217 Publications/ps-cl-nrp04.px	2025-07-30	Publication of newspapers by indicators, languages and years
+/2 Population and social processes/21 Culture/217 Publications/ps-cl-nrp05.px	2025-07-30	Release of non-periodicals publication by indicators and years
+/2 Population and social processes/21 Culture/217 Publications/ps-cl-nrp06.px	2025-07-30	One-time printing of non-periodicals publication by indicators and years
+/2 Population and social processes/21 Culture/217 Publications/ps-cl-nrp07.px	2025-07-30	Publication of books and booklets by languages and years
+/2 Population and social processes/21 Culture/217 Publications/ps-cl-nrp08.px	2025-07-30	Publication of books and booklets by languages and years
+/2 Population and social processes/21 Culture/217 Publications/ps-cl-nrp09.px	2025-07-30	Publication of books and booklets by thematic sections and years
+/2 Population and social processes/21 Culture/217 Publications/ps-cl-nrp10.px	2025-07-30	Printing of books and booklets by thematic sections and years
+/2 Population and social processes/21 Culture/217 Publications/ps-cl-nrp11.px	2025-07-30	Publication of books and booklets by purpose and years
+/2 Population and social processes/21 Culture/217 Publications/ps-cl-nrp12.px	2025-07-30	Publication of books and booklets by purpose and years
+/2 Population and social processes/21 Culture/217 Publications/ps-cl-nrp13.px	2025-07-31	Number of translated books and booklets by languages and years
+/2 Population and social processes/21 Culture/217 Publications/ps-cl-nrp14.px	2025-07-31	Number of printing of translated books and booklets by languages and years
+/2 Population and social processes/21 Culture/218 Archival activity/ps-cl-ac01.px	2025-09-08	Completion of documents by indicators, types of documents and years
+/2 Population and social processes/21 Culture/218 Archival activity/ps-cl-ac02.px	2025-09-08	Evaluation and supplementation of documents by indicators, types of documents and years
+/2 Population and social processes/21 Culture/218 Archival activity/ps-cl-ac03.px	2025-09-08	Ensuring document protection by indicators and years
+/2 Population and social processes/21 Culture/218 Archival activity/ps-cl-ac04.px	2025-09-08	Accounting of documents by indicators and years
+/2 Population and social processes/21 Culture/218 Archival activity/ps-cl-ac05.px	2025-09-08	Creation of information-search system of documents by indicators, types of documents and years
+/2 Population and social processes/21 Culture/218 Archival activity/ps-cl-ac06.px	2025-09-08	Use and publication of documents by indicators and years
+/2 Population and social processes/21 Culture/219 State registration of immovable historical and cultural monuments/ps-cl-hcm01.px	2025-06-03	State registration of immovable historical and cultural monuments by indicators, marzes and years
+/2 Population and social processes/21 Culture/2110 Zoo/ps-cl-zoo.px	2024-02-17	Zoos by indicators and years
+/2 Population and social processes/22 Education/221 Preschool institutions/PS-ed-pi01.px	2025-04-30	Number of state and municipal preschool institutions by indicators, marzes and years
+/2 Population and social processes/22 Education/221 Preschool institutions/PS-ed-pi02.px	2025-04-30	Number of non-state preschool institutions by indicators, marzes and years
+/2 Population and social processes/22 Education/221 Preschool institutions/PS-ed-pi03.px	2025-12-16	Number of non-operating preschool institutions from 2010 to 2022 by indicators, marzes and years
+/2 Population and social processes/22 Education/221 Preschool institutions/PS-ed-pi04.px	2025-04-30	Number of children of state and municipal preschool institutions by indicators, marzes and years
+/2 Population and social processes/22 Education/221 Preschool institutions/PS-ed-pi05.px	2025-05-05	Number of children of non-state preschool institutions by indicators, by marzes, by years
+/2 Population and social processes/22 Education/221 Preschool institutions/PS-ed-pi06.px	2025-12-16	Number of children of state and municipal preschool institutions from 2010 to 2020 by indicators, age and years
+/2 Population and social processes/22 Education/221 Preschool institutions/PS-ed-pi07.px	2025-12-16	Number of children of non-state preschool institutions from 2010 to 2020 by indicators, age and years
+/2 Population and social processes/22 Education/221 Preschool institutions/PS-ed-pi08.px	2025-05-05	Number of children of state and municipal preschool institutions by indicators, age and years
+/2 Population and social processes/22 Education/221 Preschool institutions/PS-ed-pi09.px	2025-05-05	Number of children of non-state preschool institutions by indicators, age and years
+/2 Population and social processes/22 Education/221 Preschool institutions/PS-ed-pi10.px	2025-05-05	Number of pedagogical-educative staff of state and municipal preschool institutions by indicators, marzes and years
+/2 Population and social processes/22 Education/221 Preschool institutions/PS-ed-pi11.px	2025-05-05	Number of pedagogical-educative staff of non-state preschool institutions by indicators, marzes and years
+/2 Population and social processes/22 Education/221 Preschool institutions/PS-ed-pi12.px	2025-05-05	Number of pedagogical-educative staff of state and municipal preschool institutions by indicators, seniority and years
+/2 Population and social processes/22 Education/221 Preschool institutions/PS-ed-pi13.px	2025-05-05	Number of pedagogical-educative staff of non-state preschool institutions by indicators, seniority and years
+/2 Population and social processes/22 Education/221 Preschool institutions/PS-ed-pi14.px	2025-06-17	Enrollment rate of children of preschool institutions by indicators and years
+/2 Population and social processes/22 Education/221 Preschool institutions/PS-ed-pi15.px	2025-06-17	Enrollment rate of children of preschool institutions by indicators, marzes and years
+/2 Population and social processes/22 Education/222 General education institutions/ps-ed-gei01.px	2025-05-20	Number of state general schools by indicators, marzes and years
+/2 Population and social processes/22 Education/222 General education institutions/ps-ed-gei02.px	2025-05-23	Number of non-state general schools by indicators, marzes and years
+/2 Population and social processes/22 Education/222 General education institutions/ps-ed-gei03.px	2025-05-23	Building conditions, number of computers, of schools with internet access by indicators, marzes and years
+/2 Population and social processes/22 Education/222 General education institutions/ps-ed-gei04.px	2025-05-23	Number of pupils of state general schools by indicators, marzes and years
+/2 Population and social processes/22 Education/222 General education institutions/ps-ed-gei05.px	2025-05-23	Number of pupils of non-state general schools by indicators, marzes and years
+/2 Population and social processes/22 Education/222 General education institutions/ps-ed-gei06.px	2025-05-23	Number of pupils of state general schools by indicators, grades and years
+/2 Population and social processes/22 Education/222 General education institutions/ps-ed-gei07.px	2025-05-23	Number of pupils of non-state general schools by indicators, grades and years
+/2 Population and social processes/22 Education/222 General education institutions/ps-ed-gei08.px	2025-05-23	Outflow and inflow of pupils by indicators, marzes and years
+/2 Population and social processes/22 Education/222 General education institutions/ps-ed-gei09.px	2025-05-23	Number of repeaters and of pupils left school (leaving study incomplete) by indicators, marzes and years
+/2 Population and social processes/22 Education/222 General education institutions/ps-ed-gei10.px	2025-05-23	Number of teachers of state general schools by indicators, marzes and years
+/2 Population and social processes/22 Education/222 General education institutions/ps-ed-gei11.px	2025-05-23	Number of teachers of non-state general schools by indicators, marzes and years
+/2 Population and social processes/22 Education/222 General education institutions/ps-ed-gei12.px	2025-05-23	Number of teachers of general schools by indicators, age groups and years
+/2 Population and social processes/22 Education/222 General education institutions/ps-ed-gei13.px	2025-05-23	Number of teachers of general schools by indicators, wage rates and years
+/2 Population and social processes/22 Education/222 General education institutions/ps-ed-gei14.px	2025-06-24	Gross enrollment ratio of pupils by indicators and years
+/2 Population and social processes/22 Education/222 General education institutions/ps-ed-gei15.px	2025-06-24	Gross involvement of pupils by indicators, marzes and years
+/2 Population and social processes/22 Education/223 Music, art, fine art schools and children and youth creative centers/ps-ed-mac01.px	2025-05-23	Number of schools and centers by indicators, marzes and years
+/2 Population and social processes/22 Education/223 Music, art, fine art schools and children and youth creative centers/ps-ed-mac02.px	2025-05-23	Building conditions by indicators, marzes and years
+/2 Population and social processes/22 Education/223 Music, art, fine art schools and children and youth creative centers/ps-ed-mac03.px	2025-05-23	Number of pupils by indicators, marzes and years
+/2 Population and social processes/22 Education/223 Music, art, fine art schools and children and youth creative centers/ps-ed-mac04.px	2025-05-23	Number of pupils by indicators, age and years
+/2 Population and social processes/22 Education/223 Music, art, fine art schools and children and youth creative centers/ps-ed-mac05.px	2025-12-16	Number of pupils from 2010 to 2022 by indicators, section and years
+/2 Population and social processes/22 Education/223 Music, art, fine art schools and children and youth creative centers/ps-ed-mac06.px	2025-06-24	Number of pupils by indicators, section and years
+/2 Population and social processes/22 Education/223 Music, art, fine art schools and children and youth creative centers/ps-ed-mac07.px	2025-06-24	Number of teachers by indicators, marzes and years
+/2 Population and social processes/22 Education/223 Music, art, fine art schools and children and youth creative centers/ps-ed-mac08.px	2025-12-16	Number of teachers from 2010 to 2022 by indicators, specialization and years
+/2 Population and social processes/22 Education/223 Music, art, fine art schools and children and youth creative centers/ps-ed-mac09.px	2025-12-04	Number of teachers by indicators, section and years
+/2 Population and social processes/22 Education/224 Preliminary (craftsmenship) vocational education/ps-ed-pve01.px	2025-05-23	Number of educational institutions by indicators, marzes and years
+/2 Population and social processes/22 Education/224 Preliminary (craftsmenship) vocational education/ps-ed-pve02.px	2025-05-23	Number of students by indicators, marzes and years
+/2 Population and social processes/22 Education/224 Preliminary (craftsmenship) vocational education/ps-ed-pve03.px	2025-05-23	Number of students by indicators, courses and years
+/2 Population and social processes/22 Education/224 Preliminary (craftsmenship) vocational education/ps-ed-pve04.px	2025-05-23	Number of students by indicators, age an years
+/2 Population and social processes/22 Education/224 Preliminary (craftsmenship) vocational education/ps-ed-pve05.px	2025-05-23	Number of teaching staff by indicators, marzes and years
+/2 Population and social processes/22 Education/224 Preliminary (craftsmenship) vocational education/ps-ed-pve06.px	2025-05-23	Number of main teaching staff by indicators, rate and years
+/2 Population and social processes/22 Education/224 Preliminary (craftsmenship) vocational education/ps-ed-pve07.px	2025-06-24	Gross enrollment ratio of students by indicators, marzes and years
+/2 Population and social processes/22 Education/226 Activity of educational institutions conducting first degree educational programs of higher education/ps-ed-h1pe01.px	2025-05-29	Number of state educational institutions and branches by indicators, marzes and years
+/2 Population and social processes/22 Education/226 Activity of educational institutions conducting first degree educational programs of higher education/ps-ed-h1pe02.px	2025-05-29	Number of non-state educational institutions and branches by indicators, marzes and years
+/2 Population and social processes/22 Education/226 Activity of educational institutions conducting first degree educational programs of higher education/ps-ed-h1pe03.px	2025-05-29	Number of students of state educational institutions by indiators, marzes and years
+/2 Population and social processes/22 Education/226 Activity of educational institutions conducting first degree educational programs of higher education/ps-ed-h1pe04.px	2025-05-29	Number of students of non-state educational institutions by indicators, marzes and years
+/2 Population and social processes/22 Education/226 Activity of educational institutions conducting first degree educational programs of higher education/ps-ed-h1pe05.px	2025-05-29	Number of students of state educational institutions by indicators, courses and years
+/2 Population and social processes/22 Education/226 Activity of educational institutions conducting first degree educational programs of higher education/ps-ed-h1pe06.px	2025-05-29	Number of students of non-state educational institutions by indicators, courses and years
+/2 Population and social processes/22 Education/226 Activity of educational institutions conducting first degree educational programs of higher education/ps-ed-h1pe07.px	2025-05-29	Number of students of state educational institutions by indicators, age and years
+/2 Population and social processes/22 Education/226 Activity of educational institutions conducting first degree educational programs of higher education/ps-ed-h1pe08.px	2025-05-29	Number of students of non-state educational institutions by indicators, age and years
+/2 Population and social processes/22 Education/226 Activity of educational institutions conducting first degree educational programs of higher education/ps-ed-h1pe09.px	2025-12-16	Number of students of state educational institutions from 2010 to 2015 by indicators, speciality groups and years
+/2 Population and social processes/22 Education/226 Activity of educational institutions conducting first degree educational programs of higher education/ps-ed-h1pe10.px	2025-12-16	Number of students of non-state educational institutions from 2010 to 2015 by indicators, speciality groups and years
+/2 Population and social processes/22 Education/226 Activity of educational institutions conducting first degree educational programs of higher education/ps-ed-h1pe11.px	2025-05-29	Number of students of state educational institutions by indicators, speciality groups and years
+/2 Population and social processes/22 Education/226 Activity of educational institutions conducting first degree educational programs of higher education/ps-ed-h1pe12.px	2025-05-29	Number of students of non-state educational institutions by indicators, speciality groups and years
+/2 Population and social processes/22 Education/226 Activity of educational institutions conducting first degree educational programs of higher education/ps-ed-h1pe13.px	2025-05-29	Number of RA citizens sent abroad for bachelor′s educational programs by indicators, countries and years
+/2 Population and social processes/22 Education/226 Activity of educational institutions conducting first degree educational programs of higher education/ps-ed-h1pe14.px	2025-05-29	Number of foreign students of state educational institutions by indicators, marzes and years
+/2 Population and social processes/22 Education/226 Activity of educational institutions conducting first degree educational programs of higher education/ps-ed-h1pe15.px	2025-05-29	Number of foreign students of non-state educational institutions by indicators, marzes and years
+/2 Population and social processes/22 Education/226 Activity of educational institutions conducting first degree educational programs of higher education/ps-ed-h1pe16.px	2025-06-24	Number of foreign students of state educational institutions by indicators, countries and years
+/2 Population and social processes/22 Education/226 Activity of educational institutions conducting first degree educational programs of higher education/ps-ed-h1pe17.px	2025-06-24	Number of foreign students of non-state educational institutions by indicators, countries and years
+/2 Population and social processes/22 Education/226 Activity of educational institutions conducting first degree educational programs of higher education/ps-ed-h1pe18.px	2025-05-30	Number of teaching staff of state educational institutions by indicators, marzes and years
+/2 Population and social processes/22 Education/226 Activity of educational institutions conducting first degree educational programs of higher education/ps-ed-h1pe19.px	2025-05-30	Number of teaching staff of non-state educational institutions by indicators, marzes and years
+/2 Population and social processes/22 Education/226 Activity of educational institutions conducting first degree educational programs of higher education/ps-ed-h1pe20.px	2025-05-30	Number of main teaching staff of state educational institutions by indicators, wage rates and years
+/2 Population and social processes/22 Education/226 Activity of educational institutions conducting first degree educational programs of higher education/ps-ed-h1pe21.px	2025-05-30	Number of teaching staff of non-state educational institutions by indicators, wage rate and years
+/2 Population and social processes/22 Education/226 Activity of educational institutions conducting first degree educational programs of higher education/ps-ed-h1pe22.px	2025-07-07	Gross enrollment ratio of students by indicators, marzes and years
+/2 Population and social processes/22 Education/227 Activity of educational institutions conducting second degree educational programs of higher education/ps-ed-h2pe01.px	2025-05-30	Number of educational institutions by indicators and years
+/2 Population and social processes/22 Education/227 Activity of educational institutions conducting second degree educational programs of higher education/ps-ed-h2pe02.px	2025-05-30	Number of educational institutions by indicators, marzes and years
+/2 Population and social processes/22 Education/227 Activity of educational institutions conducting second degree educational programs of higher education/ps-ed-h2pe03.px	2025-05-30	Number of students by indicators and years
+/2 Population and social processes/22 Education/227 Activity of educational institutions conducting second degree educational programs of higher education/ps-ed-h2pe04.px	2025-05-30	Number of students by indicators, courses and years
+/2 Population and social processes/22 Education/227 Activity of educational institutions conducting second degree educational programs of higher education/ps-ed-h2pe05.px	2025-05-30	Number of students by indiators, marzes and years
+/2 Population and social processes/22 Education/227 Activity of educational institutions conducting second degree educational programs of higher education/ps-ed-h2pe06.px	2025-12-16	Number of students from 2011 to 2015 by indicators, speciality groups and years
+/2 Population and social processes/22 Education/227 Activity of educational institutions conducting second degree educational programs of higher education/ps-ed-h2pe07.px	2025-05-30	Number of students by indicators, speciality groups and years
+/2 Population and social processes/22 Education/227 Activity of educational institutions conducting second degree educational programs of higher education/ps-ed-h2pe08.px	2025-05-30	Number of RA citizens sent abroad for master’s educational programs by indicators, countries and years
+/2 Population and social processes/22 Education/227 Activity of educational institutions conducting second degree educational programs of higher education/ps-ed-h2pe09.px	2025-05-30	Number of foreign students by indicators and years
+/2 Population and social processes/22 Education/227 Activity of educational institutions conducting second degree educational programs of higher education/ps-ed-h2pe10.px	2025-12-16	Number of foreign students from 2010 to 2023 by indicators, courses and years
+/2 Population and social processes/22 Education/227 Activity of educational institutions conducting second degree educational programs of higher education/ps-ed-h2pe11.px	2025-12-16	Number of foreign students from 2011 to 2015 by indicators, speciality groups and years
+/2 Population and social processes/22 Education/227 Activity of educational institutions conducting second degree educational programs of higher education/ps-ed-h2pe12.px	2025-09-04	Number of foreign students by indicators, speciality groups and years
+/2 Population and social processes/22 Education/227 Activity of educational institutions conducting second degree educational programs of higher education/ps-ed-h2pe13.px	2025-07-31	Gross enrollment ratio of students by indicators, marzes and years
+/2 Population and social processes/22 Education/228 Postgraduate education/ps-ed-pge01.px	2025-07-31	Number of scientific organizations and educational institutions by indicators and years
+/2 Population and social processes/22 Education/228 Postgraduate education/ps-ed-pge02.px	2025-07-31	Number of scientific organizations and educational institutions by indicators, marzes and years
+/2 Population and social processes/22 Education/228 Postgraduate education/ps-ed-pge03.px	2025-07-31	Number of postgraduate students by indicators and years
+/2 Population and social processes/22 Education/228 Postgraduate education/ps-ed-pge04.px	2025-07-31	Number of postgraduate students by indicators, marzes and years
+/2 Population and social processes/22 Education/228 Postgraduate education/ps-ed-pge05.px	2025-08-04	Number of postgraduate students by indicators, educational systems, speciality groups and years
+/2 Population and social processes/22 Education/228 Postgraduate education/ps-ed-pge06.px	2025-08-04	Number of applicants for scientific degree of candidate of science and for canditate thesis defenders by indicators, speciality groups and years
+/2 Population and social processes/22 Education/228 Postgraduate education/ps-ed-pge07.px	2025-12-16	Number of foreign postgraduate students from 2010 to 2022 by indicators, educational systems and years
+/2 Population and social processes/22 Education/228 Postgraduate education/ps-ed-pge08.px	2025-08-04	Number of foreign postgraduate studentsby indicators, speciality groups and years
+/2 Population and social processes/22 Education/228 Postgraduate education/ps-ed-pge09.px	2025-08-04	Number of scientific organizations and educational institutions by indicators and years
+/2 Population and social processes/22 Education/228 Postgraduate education/ps-ed-pge10.px	2025-08-04	Number of scientific organizations and educational institutions by indicators, marzes and years
+/2 Population and social processes/22 Education/228 Postgraduate education/ps-ed-pge11.px	2025-08-04	Number of doctorate students by indicators, marzes and years
+/2 Population and social processes/22 Education/228 Postgraduate education/ps-ed-pge12.px	2025-08-05	Number of doctorate students by indicators, speciality groups and years
+/2 Population and social processes/22 Education/228 Postgraduate education/ps-ed-pge13.px	2025-08-05	Number of RA citizens sent abroad for postgraduate educational programs by indicators, countries and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste01.px	2025-08-29	Number of organizations by marzes and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste02.px	2025-12-16	Number of organizations from 2014 to 2022 by the main types of economic activities and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste03.px	2025-08-29	Implementation of scientific and technical works by current (conventional) prices and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste04.px	2025-08-29	Implementation of scientific and technical works by cost price and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste05.px	2025-08-29	Volume of scientific and technical works by marzes and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste06.px	2025-08-29	Volumeof scientific and technical works by indicators and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste07.px	2025-08-29	Volumeof scientific and technical works by indicators and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste08.px	2025-08-29	Volume of scientific and technical works by indicators, the main types of economic activities and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste09.px	2025-09-01	Volume of scientific and technical works by indicators, the main types of economic activities and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste10.px	2025-09-01	Gross expenditures on research and developments by indicators and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste11.px	2025-09-01	Gross expenditures on research and developments by marzes and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste12.px	2025-09-01	Gross expenditures on research and developments by fields of science and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste13.px	2025-09-02	Proportions of gross expenditures on the volume of scientific and technical work and research and development to GDP by indicators and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste14.px	2025-09-01	Internal expenditures on research and developments by marzes and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste15.px	2025-09-01	Internal expenditures on research and developments by sources of funding and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste16.px	2025-09-01	Gross and internal expenditures on research and developments by indicators, the main types of economic activities and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste17.px	2025-09-01	Number of employees by indicators and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste18.px	2025-09-01	Number of employees implementing scientific and technical works and developments by indicators, educational level and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste19.px	2025-09-01	Number of employees, implementing scientific and technical works and developments by indicators, marzes and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste20.px	2025-09-01	Number of employees implementing scientific and technical works and developments by indicators, marzes and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste21.px	2025-09-01	Number of employees, implementing scientific and technical works and developments by indicators and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste22.px	2025-09-01	Number of employees, implementing scientific and technical works and developments by indicators, marzes and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste23.px	2025-09-02	Number of employees, implementing scientific and technical works and developments by indicators, marzes and years
+/2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste24.px	2025-09-02	Number of employees implementing scientific and technical works and developments by indicators, marzes and years
+/2 Population and social processes/22 Education/2210 Gender parity index/ps-ed-gpi01.px	2025-06-24	Gender parity index of pupils by indicators, marzes and years
+/2 Population and social processes/22 Education/2210 Gender parity index/ps-ed-gpi02.px	2025-06-24	Gender parity index of students in preliminary (craftsmenship) vocational educational system by indicators, marzes and years
+/2 Population and social processes/22 Education/2210 Gender parity index/ps-ed-gpi03.px	2025-06-24	Gender parity index of students in middle vocational educational system by indicators, marzes and years
+/2 Population and social processes/22 Education/2210 Gender parity index/ps-ed-gpi04.px	2025-07-07	Gender parity index of students conducting first degree educational programs of higher education by indicators, marzes and years
+/2 Population and social processes/22 Education/2210 Gender parity index/ps-ed-gpi05.px	2025-07-31	Gender parity index of students conducting second degree educational programs of higher education by indicators, marzes and years
+/2 Population and social processes/23 Employment and unemployment/PS-eu-11-2024.px	2025-12-05	Labour force by indicators and years
+/2 Population and social processes/23 Employment and unemployment/PS-eu-1-2024.px	2025-12-05	Unemployment Rate by indicators and years
+/2 Population and social processes/23 Employment and unemployment/PS-eu-13-2024.px	2025-12-05	Emploment by indicators and years
+/2 Population and social processes/23 Employment and unemployment/PS-eu-15-2024.px	2025-12-07	Emploment Rate by indicators and years
+/2 Population and social processes/23 Employment and unemployment/PS-eu-17-2024.px	2025-12-07	Working Hours, Hours Actually Worked by indicators and years
+/2 Population and social processes/23 Employment and unemployment/PS-eu-19-2024.px	2025-12-07	Wages by indicators and years
+/2 Population and social processes/23 Employment and unemployment/PS-eu-21-2024.px	2025-12-07	Job Vacancies, at the end of the year * by indicators and years
+/2 Population and social processes/23 Employment and unemployment/PS-eu-23-2024.px	2025-12-07	Earnings, Labour Cost by indicators and years
+/2 Population and social processes/23 Employment and unemployment/PS-eu-25-2024.px	2025-12-07	LABOUR COST INDEX (2013 Q1=100) by Labour Cost Index, not seasonally adjusted - I Quarter, (2013 Q1=100)Labour Cost Index, not seasonally adjusted - I Quarter, (2013 Q1=100) and years
+/2 Population and social processes/23 Employment and unemployment/PS-eu-3-2024.px	2025-12-05	Unemployment by indicators and years
+/2 Population and social processes/23 Employment and unemployment/PS-eu-5-2024.px	2025-12-05	Population out of labour force by indicators and year
+/2 Population and social processes/23 Employment and unemployment/PS-eu-7-2024.px	2025-12-05	Labour force participation rate by indicators and years
+/2 Population and social processes/23 Employment and unemployment/PS-eu-9-2024.px	2025-12-05	Working-age population / Labour Resources by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms01.px	2025-09-05	Morbidity by indicators, groups of diseases and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms02.px	2025-09-05	Number of patients under dispensary control at the end of the year by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms03.px	2025-09-05	Number of patients under dispensary control at the end of the year by indicators, groups of diseases and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms04.px	2025-09-05	Morbidity with infectious diseases by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms05.px	2025-09-05	Morbidity with alcoholic psychoses, alcoholism, drug addiction, toxicomania by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms06.px	2025-09-05	Number of injuries and poisoning cases registered in preventive medical institutions by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms07.px	2025-09-05	Morbidity with active tuberculosis by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms08.px	2025-09-05	Morbidity with active tuberculosis with the first time confirmed diagnosis by indicators, sex-age groups and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms09.px	2025-09-05	Morbidity with malignant neoplasms by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms10.px	2025-09-05	Malignant neoplasms with the first time confirmed diagnosis by indicators, sex-age groups and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms11.px	2025-09-05	Morbidity with mental and behavioral disorders (without alcoholic psychoses, alcoholism, drug addiction, toxicomania) by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms12.px	2025-09-05	Morbidity with diabetes mellitus by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms13.px	2025-09-05	Morbidity with venereal diseases by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms14.px	2025-09-05	Number of HIV tests and people tested by indicators, citizenship and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms15.px	2025-09-05	Number of RA citizens tested for HIV by indicators, age and sex group and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms16.px	2025-09-05	Number of HIV and AIDS cases by indicators, marzes and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms17.px	2025-09-05	Morbidity of women with the first time confirmed diagnosis by groups of diseases and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms18.px	2025-09-05	Number of pregnant women and the course of pregnancy by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms19.px	2025-09-05	Morbidity of pregnant and postpartum women by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms20.px	2025-09-05	Number of abortions by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms21.px	2025-09-05	Number of abortions by indicators, age groups and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms22.px	2025-09-05	Obstetrical and postpartum complications in maternity care facilities by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms23.px	2025-09-05	Surgical interventions in maternity care facilities by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms24.px	2025-09-05	Women's access to contraceptives by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms25.px	2025-09-05	Childbirth in medical obstetric care institutions by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms26.px	2025-09-05	Live births in obstetric care institutions by body weight at birth, by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms27.px	2025-09-05	Morbidity of newborns by indicators, registered diseases and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms28.px	2025-09-05	Morbidity of children in the first year of life by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms29.px	2025-09-08	Diseases covered by the large-scale immunization program by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms30.px	2025-09-05	Rate of vaccination by age groups, vaccines and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms31.px	2025-09-05	Number of children disabled by diseases by indicators, sex and age groups and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms32.px	2025-12-16	Number of laboratory-diagnostic examinations performed in medical institutions from 2011 to 2023 by types and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms33.px	2025-09-08	Health system data by indicators, marzes and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms34.px	2025-09-08	Provision of the population with physicians by groups of professions and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms35.px	2025-12-16	Provision of the population with mid-level medical personnel from 2016 to 2020 by groups of specialties and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms36.px	2025-09-08	Emergency medical care activity by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms37.px	2025-09-08	Hospital activity by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms38.px	2025-09-08	Health data by indicators, marzes and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms39.px	2025-09-08	Number of PHC service providers of Ministry of Health, regional and community subordination (except from MOCs,) by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms40.px	2025-09-08	Activity of facilities providing PHC services by indicators and years
+/2 Population and social processes/24 Social issues/2401-si-hms/ps-si-hms41.px	2025-09-08	Activity of private dental institutions by indicators and years
+/2 Population and social processes/24 Social issues/2402-si-ia/ps-si-ia01.px	2025-07-22	Industrial accidents by indicators and years
+/2 Population and social processes/24 Social issues/2402-si-ia/ps-si-ia02.px	2025-07-22	Industrial accidents by indicators, marzes and years
+/2 Population and social processes/24 Social issues/2402-si-ia/ps-si-ia03.px	2025-07-22	Total amount of expenditures for protection of labor safety conditions by indicators and years
+/2 Population and social processes/24 Social issues/2404-si-pasp/ps-si-pasp01.px	2025-08-05	Number of pensioners by indicators, type of pension, marzes and years
+/2 Population and social processes/24 Social issues/2404-si-pasp/ps-si-pasp02.px	2025-08-05	Number of pensioners per 1 000 capita by marzes and years
+/2 Population and social processes/24 Social issues/2404-si-pasp/ps-si-pasp03.px	2025-08-05	Average size of pension by indicators, type of pension, marzes and years
+/2 Population and social processes/24 Social issues/2404-si-pasp/ps-si-pasp04.px	2025-08-05	Number of pensioners by indicators, type of pension, age and sex groups and years
+/2 Population and social processes/24 Social issues/2404-si-pasp/ps-si-pasp05.px	2025-08-05	Number of pensioners receiving job pensions by indicators, type of pension and years
+/2 Population and social processes/24 Social issues/2404-si-pasp/ps-si-pasp06.px	2025-08-05	Average size of job pension by type of pension and years
+/2 Population and social processes/24 Social issues/2404-si-pasp/ps-si-pasp07.px	2025-08-05	Number of military service pensioners by indicators, type of pension and years
+/2 Population and social processes/24 Social issues/2404-si-pasp/ps-si-pasp08.px	2025-08-05	Average size of military service pension by type of pension and years
+/2 Population and social processes/24 Social issues/2404-si-pasp/ps-si-pasp09.px	2025-08-05	Number of pensioners receiving pensions defined by other laws by indicators, type of pension and years
+/2 Population and social processes/24 Social issues/2404-si-pasp/ps-si-pasp10.px	2025-08-05	Average size defined by other laws pension by type of pension and years
+/2 Population and social processes/24 Social issues/2404-si-pasp/ps-si-pasp11.px	2025-08-05	Number of working pensioners defined of labor and other laws by type of pension and years
+/2 Population and social processes/24 Social issues/2404-si-pasp/ps-si-pasp12.px	2025-08-05	Number of recently appointed pensioners by type of pension and years
+/2 Population and social processes/24 Social issues/2404-si-pasp/ps-si-pasp13.px	2025-08-05	Average size of military service pension by type of pension and years
+/2 Population and social processes/24 Social issues/2404-si-pasp/ps-si-pasp14.px	2025-08-05	General information about beneficiaries by indicators and years
+/2 Population and social processes/24 Social issues/2404-si-pasp/ps-si-pasp15.px	2025-08-05	General information about beneficiaries by indicators and years
+/2 Population and social processes/24 Social issues/2405-si-nfr/ps-si-nfr01.px	2025-08-05	Number of families receiving social and family allowances by indicators and years
+/2 Population and social processes/24 Social issues/2405-si-nfr/ps-si-nfr02.px	2025-08-05	The average monthly size of allowances for one family by indicators and years
+/2 Population and social processes/24 Social issues/2405-si-nfr/ps-si-nfr03.px	2025-08-05	Number of families receiving allowances by indicators, marzes and years
+/2 Population and social processes/24 Social issues/2405-si-nfr/ps-si-nfr04.px	2025-08-05	Number of families receiving allowance by indicators, social groups and years
+/2 Population and social processes/24 Social issues/2405-si-nfr/ps-si-nfr05.px	2025-08-05	Number of families receiving emergency aid by indicators and years
+/2 Population and social processes/24 Social issues/2405-si-nfr/ps-si-nfr06.px	2025-08-05	Number of beneficiaries by indicators, type of allowances, marzes and years
+/2 Population and social processes/24 Social issues/2405-si-nfr/ps-si-nfr07.px	2025-08-05	Number of beneficiaries per 1 000 capita by marzes and years
+/2 Population and social processes/24 Social issues/2405-si-nfr/ps-si-nfr08.px	2025-08-05	Average size of allowances by indicators, marzes and years
+/2 Population and social processes/24 Social issues/2405-si-nfr/ps-si-nfr09.px	2025-08-05	Average size of allowances by indicators, type of allowances, marzes and years
+/2 Population and social processes/24 Social issues/2405-si-nfr/ps-si-nfr10.px	2025-08-05	Number of beneficiaries by indicators, type of allowances, sex groups and years
+/2 Population and social processes/24 Social issues/2405-si-nfr/ps-si-nfr11.px	2025-08-05	Number of beneficiaries by indicators, type of allowances and years
+/2 Population and social processes/24 Social issues/2405-si-nfr/ps-si-nfr12.px	2025-08-05	Average size of allowancess by indicators, type of allowances and years
+/2 Population and social processes/24 Social issues/2405-si-nfr/ps-si-nfr13.px	2025-08-05	General information about beneficiaries by indicators and years
+/2 Population and social processes/24 Social issues/2405-si-nfr/ps-si-nfr14.px	2025-08-05	Number of benefits assigned to families receiving a one-time birth allowance by marzes, serial numbers of newborns and years
+/2 Population and social processes/24 Social issues/2405-si-nfr/ps-si-nfr15.px	2025-08-05	Number of beneficiaries receiving under two years old child care allowance by indicators, marzes and years
+/2 Population and social processes/24 Social issues/2405-si-nfr/ps-si-nfr16.px	2025-08-05	Number of newly appointed beneficiaries receiving under two years old child care allowance by indicators, marzes and years
+/2 Population and social processes/24 Social issues/2406-si-nbvt/ps-si-nbvt01.px	2025-09-02	Number of beggar and vagrant teenagers by indicators, marzes and years
+/2 Population and social processes/24 Social issues/2406-si-nbvt/ps-si-nbvt02.px	2025-09-02	Number of beggar and vagrant teenagers by indicators, age groups and years
+/2 Population and social processes/24 Social issues/2407-si-no/ps-si-no01.px	2025-09-02	Number of orphanages by indicators, marzes and years
+/2 Population and social processes/24 Social issues/2407-si-no/ps-si-no02.px	2025-12-16	Number of children in orphanages from 2010 to 2022 by indicators and years
+/2 Population and social processes/24 Social issues/2407-si-no/ps-si-no03.px	2025-09-02	Number of children in orphanagesby indicators and years
+/2 Population and social processes/24 Social issues/2407-si-no/ps-si-no04.px	2025-12-16	Number of children in state orphanages from 2010 to 2022 by indicators and years
+/2 Population and social processes/24 Social issues/2407-si-no/ps-si-no05.px	2025-09-02	Number of children in state orphanages by indicators and years
+/2 Population and social processes/24 Social issues/2407-si-no/ps-si-no06.px	2025-12-16	Number of children in non-state orphanages from 2010 to 2022 by indicators and years
+/2 Population and social processes/24 Social issues/2407-si-no/ps-si-no07.px	2025-09-02	Number of children in non-state orphanages by indicators and years
+/2 Population and social processes/24 Social issues/2407-si-no/ps-si-no08.px	2025-09-02	Number of children in orphanages by indicators, age groups and years
+/2 Population and social processes/24 Social issues/2407-si-no/ps-si-no09.px	2025-09-02	Number of children in state orphanages by indicators, age groups and years
+/2 Population and social processes/24 Social issues/2407-si-no/ps-si-no10.px	2025-09-02	Number of children in non-state orphanages by indicators, age groups and years
+/2 Population and social processes/24 Social issues/2407-si-no/ps-si-no11.px	2025-12-16	Number of staff from 2010 to 2022 by indicators and years
+/2 Population and social processes/24 Social issues/2407-si-no/ps-si-no12.px	2025-09-02	Number of staff by indicators and years
+/2 Population and social processes/24 Social issues/2407-si-no/ps-si-no13.px	2025-12-16	Number of staff in state orphanages from 2010 to 2022 by indicators and years
+/2 Population and social processes/24 Social issues/2407-si-no/ps-si-no14.px	2025-09-02	Number of staff in state orphanages by indicators and years
+/2 Population and social processes/24 Social issues/2407-si-no/ps-si-no15.px	2025-12-16	Number of staff in non-state orphanages from 2010 to 2022 by indicators and years
+/2 Population and social processes/24 Social issues/2407-si-no/ps-si-no16.px	2025-09-02	Number of staff in non-state orphanages by indicators and years
+/2 Population and social processes/24 Social issues/2407-si-no/ps-si-no17.px	2025-09-02	The area of buildings adjacent to or attached to other buildings by indicators and years
+/2 Population and social processes/24 Social issues/2407-si-no/ps-si-no18.px	2025-09-02	Financial inflows and expenditures by indicators and years
+/2 Population and social processes/24 Social issues/2408-si-nchs/ps-si-nchs01.px	2025-05-22	Number of children available for adoption by indicators, age groups and years
+/2 Population and social processes/24 Social issues/2408-si-nchs/ps-si-nchs02.px	2025-05-22	Number of children subject to centralized registry by indicators, marzes and years
+/2 Population and social processes/24 Social issues/2408-si-nchs/ps-si-nchs03.px	2025-05-22	Number of centrally registered adopter candidates by indicators, age groups, social status and years
+/2 Population and social processes/24 Social issues/2408-si-nchs/ps-si-nchs04.px	2025-05-22	Number of adopted children subject to centralized registry by indicators, age groups and years
+/2 Population and social processes/24 Social issues/2408-si-nchs/ps-si-nchs05.px	2025-05-22	Number of adopted children subject to centralized registry by indicators, marzes and years
+/2 Population and social processes/24 Social issues/2408-si-nchs/ps-si-nchs06.px	2025-05-22	Number of adopted children subject to centralized registry by indicators, adopters citizenship, marital status and years
+/2 Population and social processes/24 Social issues/2409-si-ndp/ps-si-ndp01.px	2025-09-02	Number of social service organizations for the elderly and disabled people by indicators, marzes and years
+/2 Population and social processes/24 Social issues/2409-si-ndp/ps-si-ndp02.px	2025-09-02	Number of beneficiaries by indicators and years
+/2 Population and social processes/24 Social issues/2409-si-ndp/ps-si-ndp03.px	2025-09-02	Number of beneficiaries in state organizations by indicators and years
+/2 Population and social processes/24 Social issues/2409-si-ndp/ps-si-ndp04.px	2025-09-02	Number of beneficiaries in non-state organizations by indicators and years
+/2 Population and social processes/24 Social issues/2409-si-ndp/ps-si-ndp05.px	2025-09-02	Number of beneficiaries by indicators, age groups and years
+/2 Population and social processes/24 Social issues/2409-si-ndp/ps-si-ndp06.px	2025-09-02	Number of beneficiaries in state organizations by indicators, age groups and years
+/2 Population and social processes/24 Social issues/2409-si-ndp/ps-si-ndp07.px	2025-09-02	Number of beneficiaries in non-state organizations by indicators, age groups and years
+/2 Population and social processes/24 Social issues/2409-si-ndp/ps-si-ndp08.px	2025-09-02	Number of staff by indicators and years
+/2 Population and social processes/24 Social issues/2409-si-ndp/ps-si-ndp09.px	2025-09-02	Number of staff in state organizationsf by indicators and years
+/2 Population and social processes/24 Social issues/2409-si-ndp/ps-si-ndp10.px	2025-09-02	Number of staff in non-state organizationsf by indicators and years
+/2 Population and social processes/24 Social issues/2409-si-ndp/ps-si-ndp11.px	2025-09-02	The area of buildings adjacent to or attached to other buildings by indicators and years
+/2 Population and social processes/24 Social issues/2409-si-ndp/ps-si-ndp12.px	2025-09-02	Financial inflows and expenditures by indicators and years
+/2 Population and social processes/25 Households/PS-hh-11-2022.px	2025-12-17	Poverty Level1 by years, marzes and indicators
+/2 Population and social processes/25 Households/PS-hh-1-2022.px	2025-12-10	Per capita consumer expenditures of the household by indicatord and years
+/2 Population and social processes/25 Households/PS-hh-3-2022.px	2025-12-10	Per capita consumer expenditures of the household on food by indicators and years
+/2 Population and social processes/25 Households/PS-hh-5-2022.px	2025-12-10	Consumed food dietary energy per capita by indicators and years
+/2 Population and social processes/25 Households/PS-hh-7-2022.px	2025-12-10	Percent of population whose food ration includes 70% of bread and potatoes by indicators and years
+/2 Population and social processes/25 Households/PS-hh-9-2022.px	2025-12-10	Percent of population consuming food with less than 2100 kilocalories daily by indicators and years
+/2 Population and social processes/28 Population/PS-pp-11-2025.px	2026-09-04	The Most Frequently Given Names to the New-Born Boys by names and years
+/2 Population and social processes/28 Population/PS-pp-1-2025.px	2026-09-02	Life Expectancy at Birth by years and indicators
+/2 Population and social processes/28 Population/PS-pp-13-2025.px	2025-12-25	RA Arrivals and Departures* by indicators and years
+/2 Population and social processes/28 Population/PS-pp-3-2025.px	2026-09-04	Marriages and Divorces by marzes, years and indicators
+/2 Population and social processes/28 Population/PS-pp-5-2025.px	2026-09-04	The Main Indicators of Natural Movement of Population by urban/rural distridution, years and indicators
+/2 Population and social processes/28 Population/PS-pp-7-2025.px	2026-09-04	Population (De Jure) by years and indicators
+/2 Population and social processes/28 Population/PS-pp-9-2025.px	2026-09-04	The Most Frequently Given Names to the New-Born Girls by names and years
+/2 Population and social processes/29 Legal issues/2901-li-na/ps-li-na01.px	2025-09-04	Number of certified cases by type of notarial acts and years
+/2 Population and social processes/29 Legal issues/2901-li-na/ps-li-na02.px	2025-09-04	The collected state duty by type of notarial acts and years
+/2 Population and social processes/29 Legal issues/2903-li-sca/ps-li-sca01.px	2025-09-09	Standardization, certification and accreditation activities by indicators and years
+/2 Population and social processes/29 Legal issues/2904-ls-oc/ps-ls-oc01.px	2025-09-10	Number of registered crimes by types of crimes and years
+/2 Population and social processes/29 Legal issues/2904-ls-oc/ps-ls-oc02.px	2025-09-10	Number of registered crimes, total indicators, by indicators, marzes and years
+/2 Population and social processes/29 Legal issues/2904-ls-oc/ps-ls-oc03.px	2025-09-10	Number of registered crimes by indicators, marzes and years
+/2 Population and social processes/29 Legal issues/2904-ls-oc/ps-ls-oc04.px	2025-09-10	Number of registered crimes by types of crimes and years
+/2 Population and social processes/29 Legal issues/2904-ls-oc/ps-ls-oc05.px	2025-09-10	Number of registered crimes by indicators, marzes and years
+/2 Population and social processes/29 Legal issues/2904-ls-oc/ps-ls-oc06.px	2025-09-10	Drugs found and seized from illegal circulation by types and years
+/2 Population and social processes/29 Legal issues/2904-ls-oc/ps-ls-oc07.px	2025-12-16	The number of drug-related criminal prosecutions from 2011 to 2020 by indicators and years
+/2 Population and social processes/29 Legal issues/2904-ls-oc/ps-ls-oc08.px	2025-09-10	Number of registered crimes by age and years
+/2 Population and social processes/29 Legal issues/2904-ls-oc/ps-ls-oc09.px	2025-09-10	The number of drug-related criminal prosecutions by qualification groups and years
+/2 Population and social processes/29 Legal issues/2904-ls-oc/ps-ls-oc10.px	2025-09-10	Number of registered crimes by types of crimes and years
+/2 Population and social processes/29 Legal issues/2904-ls-oc/ps-ls-oc11.px	2025-09-10	Number of registered crimes by types of crimes and years
+/2 Population and social processes/29 Legal issues/2904-ls-oc/ps-ls-oc12.px	2025-09-10	Number of registered crimes by types of crimes and years
+/2 Population and social processes/29 Legal issues/2904-ls-oc/ps-ls-oc13.px	2025-09-10	Number of detainees by indicators and years
+/2 Population and social processes/29 Legal issues/2904-ls-oc/ps-ls-oc14.px	2025-09-10	Number of detainees by indicators and years
+/2 Population and social processes/29 Legal issues/2904-ls-oc/ps-ls-oc15.px	2025-12-16	Drugs found and seized from illegal circulation from 2012 to 2021 by types and years
+/2 Population and social processes/29 Legal issues/2904-ls-oc/ps-ls-oc16.px	2025-09-10	Number of persons subject to administrative liability by type of applied penalties and years
+/2 Population and social processes/29 Legal issues/2904-ls-oc/ps-ls-oc17.px	2025-12-16	Administrative violations from 2011 to 2020 by indicators and years
+/2 Population and social processes/29 Legal issues/2904-ls-oc/ps-ls-oc18.px	2025-09-10	The amount of the imposed fine and of the fine collected by indicators and years
+/2 Population and social processes/29 Legal issues/2904-ls-oc/ps-ls-oc19.px	2025-12-16	The amount of the imposed fine and of the fine collected from 2011 to 2020 by indicators and years
+/2 Population and social processes/29 Legal issues/2905-li-cej/ps-li-cej01.px	2025-09-04	Compulsory enforcement functions by indicators, marzes and years
+/2 Population and social processes/29 Legal issues/2905-li-cej/ps-li-cej02.px	2025-09-04	Enforcement proceedings movement by indicators and years
+/2 Population and social processes/29 Legal issues/2905-li-cej/ps-li-cej03.px	2025-09-04	Amounts recovered through property and non-property enforcement proceedings by indicators and years
+/2 Population and social processes/29 Legal issues/2906-li-gei/ps-li-gei01.px	2025-08-06	Number of convicts by age groups and years
+/2 Population and social processes/29 Legal issues/2906-li-gei/ps-li-gei02.px	2025-08-06	Number of juvenile convicts by age groups and years
+/2 Population and social processes/29 Legal issues/2906-li-gei/ps-li-gei03.px	2025-08-06	Number of convicts by occupation and years
+/2 Population and social processes/29 Legal issues/2906-li-gei/ps-li-gei04.px	2025-08-06	Number of convicts by indicators, marzes and years
+/2 Population and social processes/29 Legal issues/2906-li-gei/ps-li-gei05.px	2025-12-16	Number of convicts from 2010 to 2022 by indicators, crime objects and years
+/2 Population and social processes/29 Legal issues/2906-li-gei/ps-li-gei06.px	2025-08-25	Number of convicts by indicators, crime objects and years
+/2 Population and social processes/29 Legal issues/2906-li-gei/ps-li-gei07.px	2025-12-16	Number of convicts from 2011 to 2022 by crimes and years
+/2 Population and social processes/29 Legal issues/2906-li-gei/ps-li-gei08.px	2025-08-12	Number of convicts committed drug-related crimes by age groups and years
+/2 Population and social processes/29 Legal issues/2906-li-gei/ps-li-gei09.px	2025-09-10	Number of convicts by citizenship and years
+/2 Population and social processes/29 Legal issues/2906-li-gei/ps-li-gei10.px	2025-08-12	Number of convicts by according to the circumstance of committing the crime and years
+/2 Population and social processes/29 Legal issues/2906-li-gei/ps-li-gei11.px	2025-08-12	Number of convicts by indicators and years
+/2 Population and social processes/29 Legal issues/2906-li-gei/ps-li-gei12.px	2025-09-10	Number of convicts by types of punishment and years
+/2 Population and social processes/29 Legal issues/2906-li-gei/ps-li-gei13.px	2025-09-10	Number of convicts by indicators, terms of imprisonment and years
+/2 Population and social processes/29 Legal issues/2906-li-gei/ps-li-gei14.px	2025-12-16	Number of convicts from 2010 to 2022 by indicators, crime objects and years
+/2 Population and social processes/29 Legal issues/2906-li-gei/ps-li-gei15.px	2025-09-10	Number of convicts by indicators, crime objects and years
+/2 Population and social processes/29 Legal issues/2906-li-gei/ps-li-gei16.px	2025-09-10	Number of juvenile convicts by crimes and years
+/2 Population and social processes/29 Legal issues/2906-li-gei/ps-li-gei17.px	2025-08-12	Number of juvenile convicts by types of punishment and years
+/2 Population and social processes/29 Legal issues/2906-li-gei/ps-li-gei18.px	2025-08-12	Number of special contingent (convicts and detainees) by indicators and years
+/3 Industry, Construction, trade and services/31 Construction/IC-co-1-2024.px	2025-12-05	Main Indicators of Construction by marzes, indicators and years
+/3 Industry, Construction, trade and services/32 Industry/321 Industry, RA/3211 Yearly indicators/IC-ind-y-01.px	2025-11-18	Volume of Industrial Production at current prices by types of economic activity according to the five-digit classification
+/3 Industry, Construction, trade and services/32 Industry/321 Industry, RA/3211 Yearly indicators/IC-ind-y-02.px	2025-11-18	Volume of Industrial Production indices by types of economic activity according to the five-digit classification
+/3 Industry, Construction, trade and services/32 Industry/321 Industry, RA/3211 Yearly indicators/IC-ind-y-03.px	2025-11-18	Realisation of Industrial Products at current prices by types of economic activity according to the five-digit classification
+/3 Industry, Construction, trade and services/32 Industry/321 Industry, RA/3211 Yearly indicators/IC-ind-y-04.px	2025-11-18	Realization of Industrial Products to CIS countries (of which: EAEU) at current prices by types of economic activity according to the five-digit classification
+/3 Industry, Construction, trade and services/32 Industry/321 Industry, RA/3211 Yearly indicators/IC-ind-y-05.px	2025-11-18	Realization of Industrial Products to other countries at current prices by types of economic activity according to the five-digit classification
+/3 Industry, Construction, trade and services/32 Industry/321 Industry, RA/3211 Yearly indicators/IC-ind-y-06.px	2025-11-18	Average annual number of employees (of which:famale) by types of economic activity according to the five-digit classification
+/3 Industry, Construction, trade and services/32 Industry/321 Industry, RA/3212 Monthly indicators/IC-ind-m-01.px	2026-07-24	Volume of Industrial Production at current prices by types of economic activity according to the two-digit classification, by years and months, thousand drams
+/3 Industry, Construction, trade and services/32 Industry/321 Industry, RA/3212 Monthly indicators/IC-ind-m-02.px	2026-07-24	Volume of Industrial Production indices by types of economic activity according to the two-digit classification, by years and months
+/3 Industry, Construction, trade and services/32 Industry/322 Industry, by marzes and Yerevan city/IC-ind-marz-01.px	2025-11-10	Volume of Industrial Production at current prices by types of economic activity according to the two-digit classification, by marzes and Yerevan city and years
+/3 Industry, Construction, trade and services/32 Industry/322 Industry, by marzes and Yerevan city/IC-ind-marz-02.px	2025-11-17	Volume of Industrial Production indices by types of economic activity according to the two-digit classification, by marzes and Yerevan city and years
+/3 Industry, Construction, trade and services/32 Industry/322 Industry, by marzes and Yerevan city/IC-ind-marz-03.px	2025-11-10	Realisation of Industrial Productsat current prices by types of economic activity according to the two-digit classification, by marzes and Yerevan city and years
+/3 Industry, Construction, trade and services/32 Industry/322 Industry, by marzes and Yerevan city/IC-ind-marz-04.px	2025-11-10	Realization of Industrial Products to CIS countries (of which: EAEU) at current prices by types of economic activity according to the two-digit classification, by marzes and Yerevan city and years
+/3 Industry, Construction, trade and services/32 Industry/322 Industry, by marzes and Yerevan city/IC-ind-marz-05.px	2025-11-12	Realization of Industrial Products to other countries at current prices by types of economic activity according to the two-digit classification, by marzes and Yerevan city and years
+/3 Industry, Construction, trade and services/32 Industry/322 Industry, by marzes and Yerevan city/IC-ind-marz-06.px	2025-11-12	Average annual number of employees (of which:famale) by types of economic activity according to the two-digit classification, by marzes and Yerevan city and years
+/3 Industry, Construction, trade and services/32 Industry/323/IC-ind-eng-y-01.px	2026-02-25	Energy Balance of Armenia by energy carriers, indicators and years
+/3 Industry, Construction, trade and services/32 Industry/323/IC-ind-eng-y-02.px	2025-12-16	Electricity Balance by indicators and years
+/3 Industry, Construction, trade and services/32 Industry/323/IC-ind-eng-y-03.px	2025-11-18	The Structure of Electricity Use in Industry by types of economic activity according to the two-digit classification and years
+/3 Industry, Construction, trade and services/34 Services/IC-sr-01-2024.px	2025-12-02	Volumes of Services by marzes, indicators and years
+/3 Industry, Construction, trade and services/34 Services/IC-sr-02-2024.px	2025-10-14	Volume and physical volume indices of services by indicators and years
+/3 Industry, Construction, trade and services/34 Services/IC-sr-03-2024.px	2025-10-14	Volumes and shares of services by types and years
+/3 Industry, Construction, trade and services/34 Services/IC-sr-04-2024.px	2025-10-14	Volume of services per capita by indicators and years
+/3 Industry, Construction, trade and services/34 Services/IC-sr-05-2024.px	2025-10-14	Physical volume indices of services by indicators and years
+/3 Industry, Construction, trade and services/34 Services/IC-sr-06-2024.px	2025-10-14	Volumes and shares of services by RA marzes and Yerevan city by indicators and years
+/3 Industry, Construction, trade and services/34 Services/IC-sr-07-2024.px	2025-10-14	Volumes and shares of services of Yerevan city by types and years
+/3 Industry, Construction, trade and services/34 Services/IC-sr-08-2024.px	2025-10-14	Volumes and shares of services of RA Aragatsotn marz by types and years
+/3 Industry, Construction, trade and services/34 Services/IC-sr-09-2024.px	2025-10-14	Volumes and shares of services of RA Ararat marz by types and years
+/3 Industry, Construction, trade and services/34 Services/IC-sr-10-2024.px	2025-10-14	Volumes and shares of services of RA Armavir marz by types and years
+/3 Industry, Construction, trade and services/34 Services/IC-sr-11-2024.px	2025-10-14	Volumes and shares of services of RA Gegharkunik marz by types and years
+/3 Industry, Construction, trade and services/34 Services/IC-sr-12-2024.px	2025-10-14	Volumes and shares of services of RA Lori marz by types and years
+/3 Industry, Construction, trade and services/34 Services/IC-sr-13-2024.px	2025-10-14	Volumes and shares of services of RA Kotayk by types and years
+/3 Industry, Construction, trade and services/34 Services/IC-sr-14-2024.px	2025-10-14	Volumes and shares of services of RA Shirak marz by types and years
+/3 Industry, Construction, trade and services/34 Services/IC-sr-15-2024.px	2025-10-14	Volumes and shares of services of RA Syunik marz by types and years
+/3 Industry, Construction, trade and services/34 Services/IC-sr-16-2024.px	2025-10-14	Volumes and shares of services of RA Vayots Dzor marz by types and years
+/3 Industry, Construction, trade and services/34 Services/IC-sr-17-2024.px	2025-10-14	Volumes and shares of services of RA Tavush marz by types and years
+/4 Transport and tourism/41 Transport/4101 Main indicators of general purpose transport/TT-tr-mgp01.px	2025-11-06	Main indicators of general purpose transport
+/4 Transport and tourism/41 Transport/4102 Railway transport/TT-tr-rwt1.px	2025-11-05	Volumes of freight transported by general purpose railway transport and freight turnover by indicators and years
+/4 Transport and tourism/41 Transport/4102 Railway transport/TT-tr-rwt2.px	2025-11-05	Share of freight transportation in total volume of freight transported by general purpose railway transport by indicators and years
+/4 Transport and tourism/41 Transport/4102 Railway transport/TT-tr-rwt3.px	2025-11-05	Shipment by general purpose railway transport by types of freights by indicators and years
+/4 Transport and tourism/41 Transport/4102 Railway transport/TT-tr-rwt4.px	2025-11-05	Share of shipment by general purpose railway transport by type of freights by indicators and years
+/4 Transport and tourism/41 Transport/4102 Railway transport/TT-tr-rwt5.px	2025-11-05	Import by general purpose railway transport by types of freights by indicators and years
+/4 Transport and tourism/41 Transport/4102 Railway transport/TT-tr-rwt6.px	2025-11-05	Share of import by general purpose railway transport by types of freights by indicators and years
+/4 Transport and tourism/41 Transport/4102 Railway transport/TT-tr-rwt7.px	2025-11-05	Passenger transportation by general purpose railway transport and passenger turnover by indicators and years
+/4 Transport and tourism/41 Transport/4102 Railway transport/TT-tr-rwt8.px	2025-11-05	Share of passenger transportation in total volume of passenger transported by general purpose railway transport by indicators and years
+/4 Transport and tourism/41 Transport/4102 Railway transport/TT-tr-rwt9.px	2025-11-05	Indicators on use of freight cars of general purpose railway transport by indicators and years
+/4 Transport and tourism/41 Transport/4103 Road transport/TT-tr-rt1.px	2026-06-01	Main indicators of general purpose transport (without estimating road transport activity of individual entrepreneur) by marzes and years
+/4 Transport and tourism/41 Transport/4103 Road transport/TT-tr-rt2.px	2025-11-06	Indicators on operation of general purpose freight road transport
+/4 Transport and tourism/41 Transport/4103 Road transport/TT-tr-rt3.px	2025-11-06	Share of exported, imported and intra-republican freight transportation in total volume of freight transported by general purpose road transport
+/4 Transport and tourism/41 Transport/4103 Road transport/TT-tr-rt4.px	2025-11-06	Average haul distance of freights and passengers
+/4 Transport and tourism/41 Transport/4103 Road transport/TT-tr-rt5.px	2025-11-06	Performance indicators of motor car taxi
+/4 Transport and tourism/41 Transport/4104 Air transport/TT-tr-at1.px	2025-11-05	Freight transportation by air transport by indicators and years
+/4 Transport and tourism/41 Transport/4104 Air transport/TT-tr-at2.px	2025-11-05	Passenger transportation by air transport by indicators and years
+/4 Transport and tourism/41 Transport/4104 Air transport/TT-tr-at3.px	2025-11-05	Revenues and expenditures of air transport (without VAT, in current prices)
+/4 Transport and tourism/41 Transport/4105 Electric transport/TT-tr-et1.px	2025-11-05	Passenger transportation by electric transport modes
+/4 Transport and tourism/41 Transport/4105 Electric transport/TT-tr-et2.px	2025-11-05	Share of passenger transportation by separate modes of electric transport in total volume of passenger transportation by electric transport
+/4 Transport and tourism/41 Transport/4105 Electric transport/TT-tr-et3.px	2025-11-05	Indicators on operation of subway
+/4 Transport and tourism/41 Transport/4105 Electric transport/TT-tr-et4.px	2025-11-05	Indicators on operation of trolleybuses
+/4 Transport and tourism/41 Transport/4105 Electric transport/TT-tr-et5.px	2025-11-05	Indicators on operation of rope-ways
+/4 Transport and tourism/41 Transport/4106 Pipeline transport/TT-tr-pt1.px	2025-11-05	Pipeline transport (gas pipeline)
+/4 Transport and tourism/41 Transport/4107 Industrial railway transport/TT-tr-irt1.px	2025-11-05	Main indicators on operation of industrial railway transport
+/4 Transport and tourism/41 Transport/4107 Industrial railway transport/TT-tr-irt2.px	2025-11-05	Available rolling-stock of industrial railway transport
+/4 Transport and tourism/41 Transport/4107 Industrial railway transport/TT-tr-irt3.px	2025-11-05	Railway route miles and track miles of industrial railway
+/4 Transport and tourism/41 Transport/4109 Communication ways/TT-tr-cw1.px	2025-11-05	Route miles of communication ways (at the end of the year)
+/4 Transport and tourism/41 Transport/4109 Communication ways/TT-tr-cw2.px	2025-11-05	Density of communication ways (per 1000 square km of territory, at the end of the year)
+/4 Transport and tourism/41 Transport/4109 Communication ways/TT-tr-cw3.px	2025-11-05	Intensity of freight transportation by communication ways (million tonne-km per 1 km)
+/4 Transport and tourism/41 Transport/4109 Communication ways/TT-tr-cw4.px	2025-11-05	Intensity of passenger transportation by communication ways (million passenger-km per 1 km)
+/4 Transport and tourism/41 Transport/4109 Communication ways/TT-tr-cw5.px	2025-11-05	Length of public roads by types of pavement
+/4 Transport and tourism/41 Transport/4109 Communication ways/TT-tr-cw6.px	2025-11-05	Length of interstate, republican and local public roads
+/4 Transport and tourism/41 Transport/4110 Road traffic accidents/TT-tr-rta1.px	2025-04-18	Road traffic accidents
+/4 Transport and tourism/41 Transport/4111 Revenues and expenditures/TT-tr-re1.px	2025-11-05	Revenues and expenditures from passenger transportation (without VAT, in current prices) by indicators and years
+/4 Transport and tourism/41 Transport/4111 Revenues and expenditures/TT-tr-re2.px	2025-11-05	Revenues and expenditures from freight transportation (without VAT, in current prices) by indicators and years
+/4 Transport and tourism/41 Transport/4111 Revenues and expenditures/TT-tr-re3.px	2025-11-05	Revenues from the auxiliary and subsidiary transport activity (without VAT, in current prices) by indicators and years
+/4 Transport and tourism/41 Transport/4112 Fixed assets/TT-tr-fa1.px	2025-11-05	AVAILABILITY OF FIXED ASSETS IN RAILWAY, ROAD, AIR, PIPELINE AND ELECTRIC TRANSPORT ORGANIZATIONS AT INITIAL COST, at the end of the year by indicators and years
+/4 Transport and tourism/41 Transport/4112 Fixed assets/TT-tr-fa2.px	2025-11-05	AVAILABILITY OF FIXED ASSETS IN RAILWAY TRANSPORT ORGANIZATIONS AT INITIAL COST, at the end of the year by indicators and years
+/4 Transport and tourism/41 Transport/4112 Fixed assets/TT-tr-fa3.px	2025-11-05	AVAILABILITY OF FIXED ASSETS IN ROAD TRANSPORT ORGANIZATIONS AT INITIAL COST, at the end of the year by indicators and years
+/4 Transport and tourism/41 Transport/4112 Fixed assets/TT-tr-fa4.px	2025-11-05	AVAILABILITY OF FIXED ASSETS IN AIR TRANSPORT ORGANIZATIONS AT INITIAL COST, at the end of the year by indicators and years
+/4 Transport and tourism/41 Transport/4112 Fixed assets/TT-tr-fa5.px	2025-11-05	AVAILABILITY OF FIXED ASSETS IN PIPELINE TRANSPORT ORGANIZATIONS AT INITIAL COST, at the end of the year by indicators and years
+/4 Transport and tourism/41 Transport/4112 Fixed assets/TT-tr-fa6.px	2025-11-05	AVAILABILITY OF FIXED ASSETS IN ELECTRIC TRANSPORT ORGANIZATIONS AT INITIAL COST, at the end of the year by indicators and years
+/4 Transport and tourism/42 Communication/TT-com-1.px	2025-11-06	NUMBER OF SENT TELEGRAMS
+/4 Transport and tourism/42 Communication/TT-com-10.px	2025-11-06	AVAILABILITY OF FIXED ASSETS IN COMMUNICATION ORGANIZATIONS BY THE PRIMARY COST AT THE END OF THE YEAR by indicators and years
+/4 Transport and tourism/42 Communication/TT-com-2.px	2025-11-06	TELEPHONE STATIONS by indicators and years
+/4 Transport and tourism/42 Communication/TT-com-3.px	2025-11-06	CARD PHONES IN TELEPHONE NETWORKS
+/4 Transport and tourism/42 Communication/TT-com-4.px	2025-11-06	TELEPHONE SET SERVICES by indicators and years
+/4 Transport and tourism/42 Communication/TT-com-5.px	2025-11-06	NUMBER OF TELEPHONE SETS IN THE PUBLIC TELEPHONE NETWORK
+/4 Transport and tourism/42 Communication/TT-com-6.px	2025-11-06	NUMBER OF MOBILE PHONES' ACTIVE SUBSCRIBERS AT THE END OF YEAR
+/4 Transport and tourism/42 Communication/TT-com-7.px	2025-11-06	NUMBER OF INTERNET ACCESS SUBSCRIBERS AT THE END OF YEAR
+/4 Transport and tourism/42 Communication/TT-com-8.px	2025-11-06	TELEVISION COMMUNICATION
+/4 Transport and tourism/42 Communication/TT-com-9.px	2025-11-06	REVENUES FROM COMMUNICATION SERVICES
+/4 Transport and tourism/43 Tourism/TT-tu-1-2025.px	2026-08-25	Hotels* by marzes, indicators and years
+/5 Foreign trade/FT-1-2025.px	2026-07-20	Exports and Imports of the Republic of Armenia by indicators, foreign trade and years
+/5 Foreign trade/FT-3-2021.px	2026-07-14	Exchange rates by indicators and years
+/5 Foreign trade/FT-5-2025.px	2026-07-20	Foreign Trade of the Republic of Armenia by countries, years and indicators
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-1.1-2014.px	2017-04-26	Surveyed agricultural holdings which have agricultural lands (as per 10.10.2014) by marzes and legal status
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-1-2014.px	2017-04-26	Surveyed agricultural holdings (as per 10.10.2014) by marzes and legal status
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-2.1-2014-n.px	2017-04-26	Agricultural holdings (01.08.2013-31.07.2014) by legal status1, types of agricultural crops and marzes
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-2.3-2014.px	2017-04-26	Agricultural holdings with backyards (01.08.2013-31.07.2014) by legal status, types of agricultural crops and marzes
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-2.5-2014.px	2017-04-26	Agricultural holdings (01.08.2013-31.07.2014) by legal status 1, types of actually irrigated agricultural crops and marzes
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-2.7-2014.px	2017-04-26	Agricultural holdings (01.08.2013-31.07.2014) by legal status, marzes and size classes of sown areas of grain crops
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-2.9-2014.px	2017-04-26	Agricultural holdings (01.08.2013-31.07.2014) by legal status, marzes and size classes of sown areas of leguminous crops
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-3.11-2014.px	2017-04-26	Agricultural holdings (as per 10.10.2014) by legal status, marzes and size classes of vineyard (with nurseries) areas
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-3.1-2014.px	2017-04-26	Agricultural holdings (01.08.2013-31.07.2014) by legal status1, types of perennial plantings and marzes
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-3.7-2014.px	2017-04-26	Agricultural holdings (as per 10.10.2014) by legal status, marzes and types of perennial plantings
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-3.9-2014.px	2017-04-26	Agricultural holdings (as per 10.10.2014) by legal status, marzes and size classes of berry field (with nurseries) areas
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-4.1.px	2017-06-23	Methods of irrigation of actually irrigated lands (01.08.2013-31.07.2014) by legal status, methods of irrigation and marzes
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-4-2014.px	2017-06-23	Sources of irrigation of actually irrigated lands (01.08.2013-31.07.2014) by legal status, sources of irrigation and marzes
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-5.1.px	2017-07-25	Agricultural holdings by marzes, Size classes (ha) , legal status and plant protection and/or use of fertilizers
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-6.1-2014.px	2017-06-22	Agricultural holdings which have livestock and/or poultry (10.10.2014) by legal status, marzes and livestock and/or poultry
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-6.2-2014.px	2017-06-23	Number of cattle and poultry (as per 10.10.2014) by legal status, marzes and livestock and poultry
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-7.1-2014.px	2017-07-25	Number of fish-farming agricultural holdings and areas of fish-farming basins (01.08.2012-31.07.2013) by marzes, legal status and agricultural holdings and areas of fish-farming basins
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-7.2-2014.px	2017-07-25	Number of fish-farming agricultural holdings and areas of fish-farming basins (01.08.2012-31.07.2013) by marzes, legal status and agricultural holdings and areas of fish-farming basins
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-8.1-2014.px	2017-09-13	Number of agricultural holdings (as per 10.10.2014) by marzes, legal status and storehouses and sheds, refrigerators for storing agricultural products
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-8.2-2014.px	2017-09-13	Number of agricultural holdings1 (as per 10.10.2014) by marzes, legal status and buildings/facilities for livestock/poultry
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-8.4-2014n.px	2017-07-25	Availability of own agricultural machinery/equipment in agricultural holdings, their usage by marzes, type of machinery/equipment, legal status and number of agricultural holdings and equipment
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-8.5-2014n.px	2017-07-25	Number of agricultural holdings by marzes, the rented agricultural machinery/equipment, legal status and users of services of agricultural machinery/equipment utilisation
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-8.6-2014.px	2017-08-02	Number of agricultural holdings which used horses or other draft animals for agricultural activities (01.08.2013-31.07.2014) by marzes and legal status
+/6 Agriculture, forestry and fishing/AF-1-2024.px	2026-05-12	Livestock by marzes, types and years
+/6 Agriculture, forestry and fishing/AF-1-2024 .px	2024-05-07	Livestock by marzes, types and years
+/6 Agriculture, forestry and fishing/AF-3-2023.px	2026-05-13	Main Indicators of Agriculture by marzes, indicators and years
+/6 Agriculture, forestry and fishing/AF-3-2024.px	2025-12-05	Main Indicators of Agriculture by marzes, indicators and years
+/6 Agriculture, forestry and fishing/AF-5-2023.px	2026-05-14	Marketability level of agricultural crops, according to the annual survey data of the individual households (farms) included in the sample observation field agriculture statistics by marzes, indicators and years
+/6 Agriculture, forestry and fishing/AF-5-2024.px	2025-12-04	Marketability level of agricultural crops, according to the annual survey data of the individual households (farms) included in the sample observation field agriculture statistics by marzes, indicators and years
+/6 Agriculture, forestry and fishing/AF-7-2024.px	2025-07-09	Production agricultural products per capita by indicators and years
+/7 Food Security/FS-1-2024.px	2025-08-28	Ra National Food Balances by food commodity groups/food commodity, indicator and year
+/7 Food Security/FS-1-2025.px	2026-08-27	Ra National Food Balances by food commodity groups/food commodity, indicator and year
+/8 Environment/(A) Emissions of pollutants into the atmospheric air/EE-a1.px	2025-07-08	(A1)Emissions of pollutants into the atmospheric air by pollutants and years
+/8 Environment/(A) Emissions of pollutants into the atmospheric air/EE-a1-1.px	2025-07-08	(A1-1)Emissions of pollutants into the atmospheric air (per capita and per square) by pollutants and years
+/8 Environment/(A) Emissions of pollutants into the atmospheric air/EE-a2.px	2025-04-16	(A2)Ambient air quality in urban areas by cities, emissions and years
+/8 Environment/(A) Emissions of pollutants into the atmospheric air/EE-a3.px	2024-11-21	(A3)Consumption** of ozone-depleting substances by substance and years
+/8 Environment/(B) Climate change/(B2) Atmospheric precipitation, by years/EE-b2-1.px	2025-04-17	Amount of atmospheric precipitations and deviation from norm of 1961-1990 by months and years
+/8 Environment/(B) Climate change/(B2) Atmospheric precipitation, by years/EE-b2-2.px	2025-04-16	Concentration of controlled substances in atmospheric precipitations* by substances and years
+/8 Environment/(B) Climate change/(B3) Greenhouse gas emissions/EE-b3-1.px	2025-11-11	Absolute values of Greenhouse gas emissions* (Gg CO2 eq) by Greenhouse gases and years**
+/8 Environment/(B) Climate change/(B3) Greenhouse gas emissions/EE-b3-2.px	2025-11-11	Aggregated emissions of Greenhouse gas (Kt CO2 eq) by sectors and years*
+/8 Environment/(B) Climate change/EE-b1.px	2025-04-17	(B1)Average temperature of air and deviation from norm of 1961-1990 by months and years
+/8 Environment/(C) Water resources/13.(C16) Polluted waste water (without purification and insufficiently purified waste water), by years/EE-c16-1.px	2025-11-12	Polluted wastewater by indicators and years
+/8 Environment/(C) Water resources/13.(C16) Polluted waste water (without purification and insufficiently purified waste water), by years/EE-c16-2.px	2025-11-12	The content of hazardous substances in wastewaters by substances and years
+/8 Environment/(C) Water resources/EE-c1.px	2025-11-11	(C1)Renewable freshwater resources by indicators and years
+/8 Environment/(C) Water resources/EE-c14.px	2025-12-11	(C14) Population connected to wastewater treatment by indicators and years
+/8 Environment/(C) Water resources/EE-c15.px	2025-11-11	(C15) Wastewater treatment facilities by indicators and years
+/8 Environment/(C) Water resources/EE-c2.px	2025-11-11	(C2) Freshwater abstraction (surface and groundwater) by indicators and years
+/8 Environment/(C) Water resources/EE-c2-1.px	2025-11-11	(C2-1)Freshwater abstraction by NACE and years
+/8 Environment/(C) Water resources/EE-c3.px	2025-11-11	(C3)Water use by NACE and years
+/8 Environment/(C) Water resources/EE-c4.px	2025-11-11	(C4)Household water use per capita by indicators and years
+/8 Environment/(C) Water resources/EE-c5.px	2025-11-11	(C5)Public water supply by purpose and years
+/8 Environment/(C) Water resources/EE-c7.px	2025-11-11	(C7)Water losses by NACE and years
+/8 Environment/(C) Water resources/EE-c9.px	2025-11-11	(C9) Drinking water quality by type of water supply, years and indicators
+/8 Environment/(D)  Biodiversity/EE-d1.px	2025-11-12	(D1)Main indicators specially protected areas by categories and years
+/8 Environment/(D)  Biodiversity/EE-d3.px	2025-11-12	(D3)Forests and other wooded areas by indicators and years*
+/8 Environment/(D)  Biodiversity/EE-d4.px	2021-10-13	(D4)Threatened and protected species (animals and plants)** by types, indicators and years
+/8 Environment/(E,F) Land and Agriculture/EE-f1.px	2024-11-30	(E1, F1) The land resources and irrigated lands by significance, types and years
+/8 Environment/(E,F) Land and Agriculture/EE-f2.px	2021-10-13	(F2)Fertilizer consumption by indicators and years
+/8 Environment/(E,F) Land and Agriculture/EE-f4.px	2021-10-13	(F4)Pesticide consumption by indicators and years
+/8 Environment/(I) Waste/EE-i1-1.px	2025-07-08	(I1) Waste generation by indicators and years
+/8 Environment/(I) Waste/EE-i1-2.px	2026-01-23	(I1-1) Waste generation by NACE, hazardous classes and years
+/8 Environment/(I) Waste/EE-i2.px	2025-07-08	(I2) Flow of hazardous waste (without municipal waste) by indicators and years
+/8 Environment/(J) Environmental financing/EE-j-1.px	2025-07-09	Curent expenditure for nature protection and fixed assets by indicators and years
+/8 Environment/(J) Environmental financing/EE-j-2.px	2025-07-09	Environmental taxes and payments for nature use by types and years
+/8 Environment/EE-min.px	2025-07-08	Mining of solid minerals by indicators and years
+/8 Environment/Environmental economic accounts/Water Accounts/EE-EE-WA-1.px	2024-11-29	Physical water use and supply table by years, indicators and NACE categories and types
+/8 Environment/Environmental economic accounts/Water Accounts/EE-EE-WA-2.px	2024-11-29	Physical water use and supply matrix inside economy by years, indicators and NACE categories and types
+/8 Environment/Environmental economic accounts/Water Accounts/EE-EE-WA-3.px	2026-01-21	Hybrid water supply table by years, indicators and NACE categories and types
+/8 Environment/Environmental economic accounts/Water Accounts/EE-EE-WA-4.px	2026-01-20	Hybrid water use table by years, indicators and NACE categories and types
+/8 Environment/Environmental economic accounts/Water Accounts/EE-EE-WA-5.px	2026-01-20	Key Indicators by type and years
+/8 Environment/Life quality/EE-lq-1.px	2021-12-02	Mortality rate attributed to household and ambient air pollution* by marzes and years
+/8 Environment/Life quality/EE-lq-10.px	2021-12-02	Environmental satisfaction of population* by type of complaint, marzes and years
+/8 Environment/Life quality/EE-lq-12.px	2021-12-02	Annual mean levels of fine particulate matter in cities* by cities and observation stations and years
+/8 Environment/Life quality/EE-lq-2.px	2021-12-02	Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene* by marzes and years
+/8 Environment/Life quality/EE-lq-3.px	2021-12-02	Mortality rate attributed to unintentional poisoning* by marzes and years
+/8 Environment/Life quality/EE-lq-4.px	2021-12-02	Number of deaths, persons missing, who survived and evacuated attributed to disasters* by type of disaster, marzes and years
+/8 Environment/Life quality/EE-lq-7.px	2021-12-02	Proportion of population using safely managed drinking water services* by marzes and years
+/8 Environment/Life quality/EE-lq-8.px	2021-12-02	Proportion of population attributed to exceedance of air quality standards in urban areas* by ambient air pollutants, marzes and years
+/8 Environment/Life quality/EE-lq-9.px	2021-12-02	Proportion of population using safely managed sanitation services* by type of service, marzes and years
+/8 Environment/Life quality/EE-lq-CompInd.px	2021-12-02	Composite indicator of Life Quality related to the environment by marzes and years

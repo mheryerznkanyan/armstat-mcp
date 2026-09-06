@@ -1,0 +1,8 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "armstat-mcp",
+  "main": "src/worker.js",
+  "compatibility_date": "2025-09-01",
+  "rules": [{ "type": "Text", "globs": ["**/*.tsv"] }],
+  "observability": { "enabled": true }
+}
