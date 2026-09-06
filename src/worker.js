@@ -108,7 +108,9 @@ export default {
     if (pathname !== '/mcp') return new Response('POST /mcp', { status: 404, headers: CORS });
     if (req.method !== 'POST') return new Response('POST /mcp', { status: 405, headers: CORS });
 
-    const msg = await req.json();
+    let msg;
+    try { msg = await req.json(); }
+    catch { return Response.json({ jsonrpc: '2.0', id: null, error: { code: -32700, message: 'Parse error' } }, { headers: CORS }); }
     // ponytail: stateless. No session store, no Durable Object — every tool is a
     // pure lookup. Add McpAgent only if a tool ever needs per-client state.
     const out = Array.isArray(msg)
