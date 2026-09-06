@@ -9,5 +9,16 @@
     "refresh": "node refresh.mjs",
     "test": "node test.mjs"
   },
-  "devDependencies": { "wrangler": "^4" }
+  "devDependencies": {
+    "wrangler": "^4"
+  },
+  "license": "Apache-2.0",
+  "description": "Remote MCP server over ArmStatBank \u2014 search and query 814 Armenian statistical tables",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mheryerznkanyan/armstat-mcp.git"
+  },
+  "engines": {
+    "node": ">=20"
+  }
 }
