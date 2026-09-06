@@ -41,7 +41,7 @@ if (failed.length) {
   failed.forEach(f => console.error('  ' + f));
 }
 // Refuse to publish a truncated catalog over a good one.
-if (tables.length < 600) {
+if (tables.length < 780) {
   console.error(`Only ${tables.length} tables — refusing to overwrite catalog.tsv.`);
   process.exit(1);
 }
