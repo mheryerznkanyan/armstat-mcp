@@ -100,11 +100,11 @@
 /1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15222 Expenditure of GDP (by main consumption elements)/EF-NA-93QE06.px	2022-07-26	Expenditure of the GDP real volume chain-link indices, 2010=100 by main consumption elements by SNA 1993 and quarterly
 /1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15222 Expenditure of GDP (by main consumption elements)/EF-NA-93QE07.px	2022-07-26	Expenditure of the GDP real volume chain-link indices, 2011=100 by main consumption elements by SNA 1993 and quarterly
 /1 Econnomy and finance/15 National Accounts/152 SNA 1993/1522 Quarterly data/15222 Expenditure of GDP (by main consumption elements)/EF-NA-93QE08.px	2022-07-26	Expenditure of the GDP real volume chain-link indices, 2012=100 by main consumption elements by SNA 1993 and quarterly
+/1 Econnomy and finance/15 National Accounts/EF-NA-01.px	2026-07-29	Indicator of economic activity by years, months and indicators
 /1 Econnomy and finance/15 National Accounts/EF-NA-01 A.px	2024-03-01	Indicator of economic activity with seasonal adjustment (2019=100) by years, months and indicators
 /1 Econnomy and finance/15 National Accounts/EF-NA-01 B.px	2025-02-03	Indicator of economic activity with seasonal adjustment (2021=100) by years, months and indicators
 /1 Econnomy and finance/15 National Accounts/EF-NA-01 C.px	2026-02-03	Indicator of economic activity with seasonal adjustment (2022=100) by years, months and indicators
 /1 Econnomy and finance/15 National Accounts/EF-NA-01 D.px	2026-07-29	Indicator of economic activity with seasonal adjustment (2023=100) by years, months and indicators
-/1 Econnomy and finance/15 National Accounts/EF-NA-01.px	2026-07-29	Indicator of economic activity by years, months and indicators
 /1 Econnomy and finance/16 Producer Prices/161 IPPPI/EF-PP-IPPPI-1.px	2026-07-24	Industrial product producer price indexes compared to the previous month, by years
 /1 Econnomy and finance/16 Producer Prices/161 IPPPI/EF-PP-IPPPI-2.px	2026-07-24	Industrial product producer price indexes by divisions of the economic activity, compared to the previous month, from 2018
 /1 Econnomy and finance/16 Producer Prices/161 IPPPI/EF-PP-IPPPI-3.px	2026-01-29	Industrial product producer price indexes compared to the previous year
@@ -122,8 +122,8 @@
 /1 Econnomy and finance/16 Producer Prices/164  API/1642 SALE/EF-PP-API-SALE-2.px	2026-01-26	Sale price indexes of agricultural product (crop and livestock) producers compared to the previous year
 /1 Econnomy and finance/16 Producer Prices/165 CPI/EF-PP-CPI-1.px	2026-07-27	Construction price indexes compared to the previous month, by years
 /1 Econnomy and finance/16 Producer Prices/165 CPI/EF-PP-CPI-2.px	2026-01-26	Construction price indexes compared to the previous year
-/2 Population and social processes/20 Census/PS-pp-1-1-2.px	2025-09-16	RA Permanent Population according by Marzes and by Sex
 /2 Population and social processes/20 Census/PS-pp-1.3.px	2025-09-11	Distribution of RA (Current and Permanent population) by age and sex
+/2 Population and social processes/20 Census/PS-pp-1-1-2.px	2025-09-16	RA Permanent Population according by Marzes and by Sex
 /2 Population and social processes/20 Census/PS-pp-2.1.px	2025-09-11	Population by Age, Sex and Marital Status
 /2 Population and social processes/20 Census/PS-pp-3.1.px	2025-09-12	Population by Educational Attainment, Scientific Degree, Sex and Age
 /2 Population and social processes/20 Census/PS-pp-5.1.px	2025-09-12	Population by Ethnicity, Sex and Age
@@ -152,7 +152,6 @@
 /2 Population and social processes/21 Culture/211 Activity of libraries/ps-cl-nl14.px	2025-09-08	Involvement of population in libraries by marzes and years
 /2 Population and social processes/21 Culture/211 Activity of libraries/ps-cl-nl15.px	2025-09-08	Specialized scientific libraries by indicators and years
 /2 Population and social processes/21 Culture/211 Activity of libraries/ps-cl-nl16.px	2025-09-08	Specialized scientific libraries by indicators and years
-/2 Population and social processes/21 Culture/2110 Zoo/ps-cl-zoo.px	2024-02-17	Zoos by indicators and years
 /2 Population and social processes/21 Culture/212 Museum activities/ps-cl-nm01.px	2025-07-28	Number of museums by sort and years
 /2 Population and social processes/21 Culture/212 Museum activities/ps-cl-nm02.px	2025-07-28	Number of museums by marzes and years
 /2 Population and social processes/21 Culture/212 Museum activities/ps-cl-nm03.px	2025-07-28	Number of museum funds by exhibits and years
@@ -223,6 +222,7 @@
 /2 Population and social processes/21 Culture/218 Archival activity/ps-cl-ac05.px	2025-09-08	Creation of information-search system of documents by indicators, types of documents and years
 /2 Population and social processes/21 Culture/218 Archival activity/ps-cl-ac06.px	2025-09-08	Use and publication of documents by indicators and years
 /2 Population and social processes/21 Culture/219 State registration of immovable historical and cultural monuments/ps-cl-hcm01.px	2025-06-03	State registration of immovable historical and cultural monuments by indicators, marzes and years
+/2 Population and social processes/21 Culture/2110 Zoo/ps-cl-zoo.px	2024-02-17	Zoos by indicators and years
 /2 Population and social processes/22 Education/221 Preschool institutions/PS-ed-pi01.px	2025-04-30	Number of state and municipal preschool institutions by indicators, marzes and years
 /2 Population and social processes/22 Education/221 Preschool institutions/PS-ed-pi02.px	2025-04-30	Number of non-state preschool institutions by indicators, marzes and years
 /2 Population and social processes/22 Education/221 Preschool institutions/PS-ed-pi03.px	2025-12-16	Number of non-operating preschool institutions from 2010 to 2022 by indicators, marzes and years
@@ -238,11 +238,6 @@
 /2 Population and social processes/22 Education/221 Preschool institutions/PS-ed-pi13.px	2025-05-05	Number of pedagogical-educative staff of non-state preschool institutions by indicators, seniority and years
 /2 Population and social processes/22 Education/221 Preschool institutions/PS-ed-pi14.px	2025-06-17	Enrollment rate of children of preschool institutions by indicators and years
 /2 Population and social processes/22 Education/221 Preschool institutions/PS-ed-pi15.px	2025-06-17	Enrollment rate of children of preschool institutions by indicators, marzes and years
-/2 Population and social processes/22 Education/2210 Gender parity index/ps-ed-gpi01.px	2025-06-24	Gender parity index of pupils by indicators, marzes and years
-/2 Population and social processes/22 Education/2210 Gender parity index/ps-ed-gpi02.px	2025-06-24	Gender parity index of students in preliminary (craftsmenship) vocational educational system by indicators, marzes and years
-/2 Population and social processes/22 Education/2210 Gender parity index/ps-ed-gpi03.px	2025-06-24	Gender parity index of students in middle vocational educational system by indicators, marzes and years
-/2 Population and social processes/22 Education/2210 Gender parity index/ps-ed-gpi04.px	2025-07-07	Gender parity index of students conducting first degree educational programs of higher education by indicators, marzes and years
-/2 Population and social processes/22 Education/2210 Gender parity index/ps-ed-gpi05.px	2025-07-31	Gender parity index of students conducting second degree educational programs of higher education by indicators, marzes and years
 /2 Population and social processes/22 Education/222 General education institutions/ps-ed-gei01.px	2025-05-20	Number of state general schools by indicators, marzes and years
 /2 Population and social processes/22 Education/222 General education institutions/ps-ed-gei02.px	2025-05-23	Number of non-state general schools by indicators, marzes and years
 /2 Population and social processes/22 Education/222 General education institutions/ps-ed-gei03.px	2025-05-23	Building conditions, number of computers, of schools with internet access by indicators, marzes and years
@@ -362,8 +357,13 @@
 /2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste22.px	2025-09-01	Number of employees, implementing scientific and technical works and developments by indicators, marzes and years
 /2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste23.px	2025-09-02	Number of employees, implementing scientific and technical works and developments by indicators, marzes and years
 /2 Population and social processes/22 Education/229 Scientific and technical activity/ps-ed-ste24.px	2025-09-02	Number of employees implementing scientific and technical works and developments by indicators, marzes and years
-/2 Population and social processes/23 Employment and unemployment/PS-eu-1-2024.px	2025-12-05	Unemployment Rate by indicators and years
+/2 Population and social processes/22 Education/2210 Gender parity index/ps-ed-gpi01.px	2025-06-24	Gender parity index of pupils by indicators, marzes and years
+/2 Population and social processes/22 Education/2210 Gender parity index/ps-ed-gpi02.px	2025-06-24	Gender parity index of students in preliminary (craftsmenship) vocational educational system by indicators, marzes and years
+/2 Population and social processes/22 Education/2210 Gender parity index/ps-ed-gpi03.px	2025-06-24	Gender parity index of students in middle vocational educational system by indicators, marzes and years
+/2 Population and social processes/22 Education/2210 Gender parity index/ps-ed-gpi04.px	2025-07-07	Gender parity index of students conducting first degree educational programs of higher education by indicators, marzes and years
+/2 Population and social processes/22 Education/2210 Gender parity index/ps-ed-gpi05.px	2025-07-31	Gender parity index of students conducting second degree educational programs of higher education by indicators, marzes and years
 /2 Population and social processes/23 Employment and unemployment/PS-eu-11-2024.px	2025-12-05	Labour force by indicators and years
+/2 Population and social processes/23 Employment and unemployment/PS-eu-1-2024.px	2025-12-05	Unemployment Rate by indicators and years
 /2 Population and social processes/23 Employment and unemployment/PS-eu-13-2024.px	2025-12-05	Emploment by indicators and years
 /2 Population and social processes/23 Employment and unemployment/PS-eu-15-2024.px	2025-12-07	Emploment Rate by indicators and years
 /2 Population and social processes/23 Employment and unemployment/PS-eu-17-2024.px	2025-12-07	Working Hours, Hours Actually Worked by indicators and years
@@ -499,8 +499,8 @@
 /2 Population and social processes/24 Social issues/2409-si-ndp/ps-si-ndp10.px	2025-09-02	Number of staff in non-state organizationsf by indicators and years
 /2 Population and social processes/24 Social issues/2409-si-ndp/ps-si-ndp11.px	2025-09-02	The area of buildings adjacent to or attached to other buildings by indicators and years
 /2 Population and social processes/24 Social issues/2409-si-ndp/ps-si-ndp12.px	2025-09-02	Financial inflows and expenditures by indicators and years
-/2 Population and social processes/25 Households/PS-hh-1-2022.px	2025-12-10	Per capita consumer expenditures of the household by indicatord and years
 /2 Population and social processes/25 Households/PS-hh-11-2022.px	2025-12-17	Poverty Level1 by years, marzes and indicators
+/2 Population and social processes/25 Households/PS-hh-1-2022.px	2025-12-10	Per capita consumer expenditures of the household by indicatord and years
 /2 Population and social processes/25 Households/PS-hh-3-2022.px	2025-12-10	Per capita consumer expenditures of the household on food by indicators and years
 /2 Population and social processes/25 Households/PS-hh-5-2022.px	2025-12-10	Consumed food dietary energy per capita by indicators and years
 /2 Population and social processes/25 Households/PS-hh-7-2022.px	2025-12-10	Percent of population whose food ration includes 70% of bread and potatoes by indicators and years
@@ -568,8 +568,8 @@
 /2 Population and social processes/26 Housing/267 Barekargvacutyun/PS-hs-ire03.px	2025-10-13	The total length of streets and crossings by indicators, marzes and years
 /2 Population and social processes/26 Housing/267 Barekargvacutyun/PS-hs-ire04.px	2025-10-13	Total area of streets (covered and uncovered), crossings and squares (including sidewalks) by indicators,urban areas and years
 /2 Population and social processes/26 Housing/267 Barekargvacutyun/PS-hs-ire05.px	2025-10-13	The total length of streets and crossings by indicators, urban areas and years
-/2 Population and social processes/28 Population/PS-pp-1-2025.px	2026-09-02	Life Expectancy at Birth by years and indicators
 /2 Population and social processes/28 Population/PS-pp-11-2025.px	2026-09-04	The Most Frequently Given Names to the New-Born Boys by names and years
+/2 Population and social processes/28 Population/PS-pp-1-2025.px	2026-09-02	Life Expectancy at Birth by years and indicators
 /2 Population and social processes/28 Population/PS-pp-13-2025.px	2025-12-25	RA Arrivals and Departures* by indicators and years
 /2 Population and social processes/28 Population/PS-pp-3-2025.px	2026-09-04	Marriages and Divorces by marzes, years and indicators
 /2 Population and social processes/28 Population/PS-pp-5-2025.px	2026-09-04	The Main Indicators of Natural Movement of Population by urban/rural distridution, years and indicators
@@ -722,19 +722,19 @@
 /5 Foreign trade/FT-1-2025.px	2026-07-20	Exports and Imports of the Republic of Armenia by indicators, foreign trade and years
 /5 Foreign trade/FT-3-2021.px	2026-07-14	Exchange rates by indicators and years
 /5 Foreign trade/FT-5-2025.px	2026-07-20	Foreign Trade of the Republic of Armenia by countries, years and indicators
-/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-1-2014.px	2017-04-26	Surveyed agricultural holdings (as per 10.10.2014) by marzes and legal status
 /6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-1.1-2014.px	2017-04-26	Surveyed agricultural holdings which have agricultural lands (as per 10.10.2014) by marzes and legal status
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-1-2014.px	2017-04-26	Surveyed agricultural holdings (as per 10.10.2014) by marzes and legal status
 /6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-2.1-2014-n.px	2017-04-26	Agricultural holdings (01.08.2013-31.07.2014) by legal status1, types of agricultural crops and marzes
 /6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-2.3-2014.px	2017-04-26	Agricultural holdings with backyards (01.08.2013-31.07.2014) by legal status, types of agricultural crops and marzes
 /6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-2.5-2014.px	2017-04-26	Agricultural holdings (01.08.2013-31.07.2014) by legal status 1, types of actually irrigated agricultural crops and marzes
 /6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-2.7-2014.px	2017-04-26	Agricultural holdings (01.08.2013-31.07.2014) by legal status, marzes and size classes of sown areas of grain crops
 /6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-2.9-2014.px	2017-04-26	Agricultural holdings (01.08.2013-31.07.2014) by legal status, marzes and size classes of sown areas of leguminous crops
-/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-3.1-2014.px	2017-04-26	Agricultural holdings (01.08.2013-31.07.2014) by legal status1, types of perennial plantings and marzes
 /6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-3.11-2014.px	2017-04-26	Agricultural holdings (as per 10.10.2014) by legal status, marzes and size classes of vineyard (with nurseries) areas
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-3.1-2014.px	2017-04-26	Agricultural holdings (01.08.2013-31.07.2014) by legal status1, types of perennial plantings and marzes
 /6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-3.7-2014.px	2017-04-26	Agricultural holdings (as per 10.10.2014) by legal status, marzes and types of perennial plantings
 /6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-3.9-2014.px	2017-04-26	Agricultural holdings (as per 10.10.2014) by legal status, marzes and size classes of berry field (with nurseries) areas
-/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-4-2014.px	2017-06-23	Sources of irrigation of actually irrigated lands (01.08.2013-31.07.2014) by legal status, sources of irrigation and marzes
 /6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-4.1.px	2017-06-23	Methods of irrigation of actually irrigated lands (01.08.2013-31.07.2014) by legal status, methods of irrigation and marzes
+/6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-4-2014.px	2017-06-23	Sources of irrigation of actually irrigated lands (01.08.2013-31.07.2014) by legal status, sources of irrigation and marzes
 /6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-5.1.px	2017-07-25	Agricultural holdings by marzes, Size classes (ha) , legal status and plant protection and/or use of fertilizers
 /6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-6.1-2014.px	2017-06-22	Agricultural holdings which have livestock and/or poultry (10.10.2014) by legal status, marzes and livestock and/or poultry
 /6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-6.2-2014.px	2017-06-23	Number of cattle and poultry (as per 10.10.2014) by legal status, marzes and livestock and poultry
@@ -745,8 +745,8 @@
 /6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-8.4-2014n.px	2017-07-25	Availability of own agricultural machinery/equipment in agricultural holdings, their usage by marzes, type of machinery/equipment, legal status and number of agricultural holdings and equipment
 /6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-8.5-2014n.px	2017-07-25	Number of agricultural holdings by marzes, the rented agricultural machinery/equipment, legal status and users of services of agricultural machinery/equipment utilisation
 /6 Agriculture, forestry and fishing/61 Agricultural Census 2014/GHH-8.6-2014.px	2017-08-02	Number of agricultural holdings which used horses or other draft animals for agricultural activities (01.08.2013-31.07.2014) by marzes and legal status
-/6 Agriculture, forestry and fishing/AF-1-2024 .px	2024-05-07	Livestock by marzes, types and years
 /6 Agriculture, forestry and fishing/AF-1-2024.px	2026-05-12	Livestock by marzes, types and years
+/6 Agriculture, forestry and fishing/AF-1-2024 .px	2024-05-07	Livestock by marzes, types and years
 /6 Agriculture, forestry and fishing/AF-3-2023.px	2026-05-13	Main Indicators of Agriculture by marzes, indicators and years
 /6 Agriculture, forestry and fishing/AF-3-2024.px	2025-12-05	Main Indicators of Agriculture by marzes, indicators and years
 /6 Agriculture, forestry and fishing/AF-5-2023.px	2026-05-14	Marketability level of agricultural crops, according to the annual survey data of the individual households (farms) included in the sample observation field agriculture statistics by marzes, indicators and years
@@ -754,8 +754,8 @@
 /6 Agriculture, forestry and fishing/AF-7-2024.px	2025-07-09	Production agricultural products per capita by indicators and years
 /7 Food Security/FS-1-2024.px	2025-08-28	Ra National Food Balances by food commodity groups/food commodity, indicator and year
 /7 Food Security/FS-1-2025.px	2026-08-27	Ra National Food Balances by food commodity groups/food commodity, indicator and year
-/8 Environment/(A) Emissions of pollutants into the atmospheric air/EE-a1-1.px	2025-07-08	(A1-1)Emissions of pollutants into the atmospheric air (per capita and per square) by pollutants and years
 /8 Environment/(A) Emissions of pollutants into the atmospheric air/EE-a1.px	2025-07-08	(A1)Emissions of pollutants into the atmospheric air by pollutants and years
+/8 Environment/(A) Emissions of pollutants into the atmospheric air/EE-a1-1.px	2025-07-08	(A1-1)Emissions of pollutants into the atmospheric air (per capita and per square) by pollutants and years
 /8 Environment/(A) Emissions of pollutants into the atmospheric air/EE-a2.px	2025-04-16	(A2)Ambient air quality in urban areas by cities, emissions and years
 /8 Environment/(A) Emissions of pollutants into the atmospheric air/EE-a3.px	2024-11-21	(A3)Consumption** of ozone-depleting substances by substance and years
 /8 Environment/(B) Climate change/(B2) Atmospheric precipitation, by years/EE-b2-1.px	2025-04-17	Amount of atmospheric precipitations and deviation from norm of 1961-1990 by months and years
@@ -763,8 +763,6 @@
 /8 Environment/(B) Climate change/(B3) Greenhouse gas emissions/EE-b3-1.px	2025-11-11	Absolute values of Greenhouse gas emissions* (Gg CO2 eq) by Greenhouse gases and years**
 /8 Environment/(B) Climate change/(B3) Greenhouse gas emissions/EE-b3-2.px	2025-11-11	Aggregated emissions of Greenhouse gas (Kt CO2 eq) by sectors and years*
 /8 Environment/(B) Climate change/EE-b1.px	2025-04-17	(B1)Average temperature of air and deviation from norm of 1961-1990 by months and years
-/8 Environment/(C) Water resources/13.(C16) Polluted waste water (without purification and insufficiently purified waste water), by years/EE-c16-1.px	2025-11-12	Polluted wastewater by indicators and years
-/8 Environment/(C) Water resources/13.(C16) Polluted waste water (without purification and insufficiently purified waste water), by years/EE-c16-2.px	2025-11-12	The content of hazardous substances in wastewaters by substances and years
 /8 Environment/(C) Water resources/9.(C10, C11) Water quality indicator, by observation points and years/Lakes, reservoirs/EE-c11-L.px	2025-04-16	Water quality of Lake Sevan by points, indicators and years
 /8 Environment/(C) Water resources/9.(C10, C11) Water quality indicator, by observation points and years/Nutrients in freshwater - groundwater/EE-c11.px	2025-04-16	Nutrients in freshwater - groundwater by observation points, indicators and years
 /8 Environment/(C) Water resources/9.(C10, C11) Water quality indicator, by observation points and years/Rivers/EE-c11-r1.px	2025-04-16	Water quality of River Aghstev by observation points, pollutants and years
@@ -775,11 +773,13 @@
 /8 Environment/(C) Water resources/9.(C10, C11) Water quality indicator, by observation points and years/Rivers/EE-c11-r6.px	2025-04-16	Water quality of River Qasax by observation points, polutants and years
 /8 Environment/(C) Water resources/9.(C10, C11) Water quality indicator, by observation points and years/Rivers/EE-c11-r7.px	2025-04-16	Water quality of River Vorotan by observation points, pollutants and years
 /8 Environment/(C) Water resources/9.(C10, C11) Water quality indicator, by observation points and years/Rivers/EE-c11-r8.px	2025-04-16	Water quality of River Voxchi by observation points, pollutants and years
+/8 Environment/(C) Water resources/13.(C16) Polluted waste water (without purification and insufficiently purified waste water), by years/EE-c16-1.px	2025-11-12	Polluted wastewater by indicators and years
+/8 Environment/(C) Water resources/13.(C16) Polluted waste water (without purification and insufficiently purified waste water), by years/EE-c16-2.px	2025-11-12	The content of hazardous substances in wastewaters by substances and years
 /8 Environment/(C) Water resources/EE-c1.px	2025-11-11	(C1)Renewable freshwater resources by indicators and years
 /8 Environment/(C) Water resources/EE-c14.px	2025-12-11	(C14) Population connected to wastewater treatment by indicators and years
 /8 Environment/(C) Water resources/EE-c15.px	2025-11-11	(C15) Wastewater treatment facilities by indicators and years
-/8 Environment/(C) Water resources/EE-c2-1.px	2025-11-11	(C2-1)Freshwater abstraction by NACE and years
 /8 Environment/(C) Water resources/EE-c2.px	2025-11-11	(C2) Freshwater abstraction (surface and groundwater) by indicators and years
+/8 Environment/(C) Water resources/EE-c2-1.px	2025-11-11	(C2-1)Freshwater abstraction by NACE and years
 /8 Environment/(C) Water resources/EE-c3.px	2025-11-11	(C3)Water use by NACE and years
 /8 Environment/(C) Water resources/EE-c4.px	2025-11-11	(C4)Household water use per capita by indicators and years
 /8 Environment/(C) Water resources/EE-c5.px	2025-11-11	(C5)Public water supply by purpose and years
